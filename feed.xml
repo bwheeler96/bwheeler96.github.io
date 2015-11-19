@@ -1,0 +1,2542 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Wheeler's Blog</title>
+    <link>http://brianw.io</link>
+    <atom:link href="http://brianw.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Thu, 19 Nov 2015 17:31:08 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 17:31:08 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Science Is just the Universe Pushing It's Own Limits</title>
+      <link>http://brianw.io/blog/2014/06/13/science-is-just-the-universe-pushing-its-own-limits</link>
+      <pubDate>Fri, 13 Jun 2014 19:34:45 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/06/13/science-is-just-the-universe-pushing-its-own-limits</guid>
+      <description>&lt;p&gt;Yeah. Think about that for a second.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>How to migrate a blog</title>
+      <link>http://brianw.io/blog/2014/05/25/how-to-migrate-a-blog</link>
+      <pubDate>Sun, 25 May 2014 20:02:54 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/05/25/how-to-migrate-a-blog</guid>
+      <description>&lt;p&gt;Migrating a blog can be tricky; there are a few things you may not think about, but you&#39;re going to want to pay attention to
+maintaining your established SEO, keeping everything in working order&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Optimize your work efficiency with tips for using Google Chrome</title>
+      <link>http://brianw.io/blog/2014/05/21/optimize-your-work-efficiency-with-tips-for-using-google-chrome</link>
+      <pubDate>Wed, 21 May 2014 20:36:38 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/05/21/optimize-your-work-efficiency-with-tips-for-using-google-chrome</guid>
+      <description>&lt;p&gt;Using Google Chrome is better when you have the inside knowledge. Here are some tips to make Google Chrome better.&lt;/p&gt;
+
+&lt;h3&gt;Use browser profiles&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/chrome_profiles.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Browser profiles allow you to switch seamlessly between your digital identities. For me I have a personal profile, a work profile,
+and separate profiles from different projects I&#39;ve worked on.&lt;/p&gt;
+
+&lt;p&gt;Key points of separate profiles&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Separate home page(s) for each profile&lt;/li&gt;
+&lt;li&gt;Separate browser history&lt;/li&gt;
+&lt;li&gt;Separate bookmarks&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Pinning Tabs&lt;/h3&gt;
+
+&lt;p&gt;Pinning tabs is great for things you need on the regular, such as your email, Stack Overflow, and your music service.
+To pin a tab, left click it, and click &quot;Pin tab&quot;.&lt;/p&gt;
+
+&lt;h3&gt;Important hotkeys&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cmd-L - Highlights URL Bar&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Shift-Cmd {&lt;/code&gt; - Move one tab left&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Shift-Cmd }&lt;/code&gt; - Move one tab right&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Cmd ~&lt;/code&gt; - Next window&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Cmd Click&lt;/code&gt; - Open link in new tab&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Option-Enter&lt;/code&gt; - Open search in a new tab&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Cmd D&lt;/code&gt; - Bookmark current tab&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Shift-Cmd D&lt;/code&gt; Bookmark all tabs&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Cmd F&lt;/code&gt; - Find in page&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;For a full list of hotkeys, &lt;a href=&quot;https://support.google.com/chrome/answer/165450?hl=en&quot;&gt;check out the google documentation.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+
+&lt;p&gt;-Brian&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>How the hell do companies raise money without profit?</title>
+      <link>http://brianw.io/blog/2014/05/19/how-the-hell-do-companies-raise-money-without-profit</link>
+      <pubDate>Mon, 19 May 2014 21:15:23 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/05/19/how-the-hell-do-companies-raise-money-without-profit</guid>
+      <description>&lt;p&gt;It seems the trend lately is to spend first, and ask for money later. Companies like Twitter and Box and many other cloud service providers
+are running this game of providing a free service, at an enormous loss, and then scrambling to monetize later.&lt;/p&gt;
+
+&lt;p&gt;I&#39;m not bagging on Box, or Twitter, or any other simply brilliant company of this century, I&#39;m merely pointing out
+that if your revenue comes from people who invest in your company, and your main means of monetization is a never ending cycle
+of investment: you&#39;re running a &lt;a href=&quot;http://en.wikipedia.org/Ponzi_scheme&quot;&gt;Ponzi Scheme&lt;/a&gt;, not a company.&lt;/p&gt;
+
+&lt;p&gt;Take the following pitch: Our company buys postage stamps, sells them for 75% of what we paid for them, and because of the
+&lt;strong&gt;huge volume&lt;/strong&gt; we&#39;re going to make SO MUCH money once we figure that whole part out.&lt;/p&gt;
+
+&lt;p&gt;I bet investors are already emailing me lining up. If you didn&#39;t catch the analogy, postage stamps are a means of sending information,
+much like the tech products most companies now provide. The joke is that these companies are spending exorbitant amounts of money
+on services they can&#39;t afford to provide.&lt;/p&gt;
+
+&lt;p&gt;Why can&#39;t companies provide a service, become profitable, and scale profits and investments in tandem? Am I crazy or is there something
+wrong with the world?&lt;/p&gt;
+
+&lt;p&gt;Long-tail cloud-based agile scalable innovative management performance groundbreaking breakthrough simple b2b c2c brand. That was a vent of
+startup buzzwords. Thanks for reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>How to send a meaningful email.</title>
+      <link>http://brianw.io/blog/2014/05/16/how-to-send-a-meaningful-email</link>
+      <pubDate>Fri, 16 May 2014 16:56:10 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/05/16/how-to-send-a-meaningful-email</guid>
+      <description>&lt;p&gt;I&#39;ve sent a &lt;strong&gt;ton&lt;/strong&gt; of emails this last week; cold emails, intros, follow ups, you name it. No rest for the wicked. I&#39;ve decided that it&#39;s about
+time someone wrote about this.&lt;/p&gt;
+
+&lt;h3&gt;Your subject line is important.&lt;/h3&gt;
+
+&lt;p&gt;In your subject line, have a meaningful, honest sentence or question. That&#39;s it. Don&#39;t camelcase. Don&#39;t use ALLCAPS. Don&#39;t just write &quot;Follow up&quot; or &quot;Intro&quot;.&lt;/p&gt;
+
+&lt;p&gt;Bad: Follow Up&lt;/p&gt;
+
+&lt;p&gt;Good: Brian wheeler following up on last weeks crowd-investing conference&lt;/p&gt;
+
+&lt;p&gt;Bad: Intro&lt;/p&gt;
+
+&lt;p&gt;Good: Intro between Jane Doe and John Smith&lt;/p&gt;
+
+&lt;p&gt;Bad: TRY OUR FREE TRIAL&lt;/p&gt;
+
+&lt;p&gt;Good: Would you be interested in working with software that  « insert description here »&lt;/p&gt;
+
+&lt;h3&gt;Don&#39;t tautologize&lt;/h3&gt;
+
+&lt;h4&gt;A.K.A. Don&#39;t repeat yourself&lt;/h4&gt;
+
+&lt;p&gt;Getting to the point is important. &lt;strong&gt;Shorter&lt;/strong&gt; emails are &lt;strong&gt;better&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Examples of tautology you have probably used in your emails:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;working on developing (working and developing are essentially the same word)&lt;/li&gt;
+&lt;li&gt;new innovation (innovations are intrinsically new)&lt;/li&gt;
+&lt;li&gt;added bonus (bonuses are always &quot;added&quot;)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;For more examples of tautology, and how to avoid it, see &lt;a href=&quot;http://examples.yourdictionary.com/reference/examples/examples-of-tautology.html&quot;&gt;http://examples.yourdictionary.com/reference/examples/examples-of-tautology.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Don&#39;t talk about yourself&lt;/h3&gt;
+
+&lt;p&gt;It&#39;s easy to start an email off with&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;John Doe,
+
+my name is So and So and I would like to me me myself I us our blah blah blah
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Don&#39;t fall into this trap. Remember that if you sign your emails correctly, your name will appear at the bottom. Explain why your email,
+introduce yourself later.&lt;/p&gt;
+
+&lt;h3&gt;Sign your email&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;Intro,
+
+body copy of the email ends. Put a &quot;thank you&quot; somewhere here or in the signature.
+
+Brian Wheeler
+Position
+Company
+805.452.6222
+email@example.com
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Follow these basic tips, it will make your emails more concise, easier to read, and easier to respond to.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Why I hate the phrase Corporate America</title>
+      <link>http://brianw.io/blog/2014/05/15/why-i-hate-the-phrase-corporate-america</link>
+      <pubDate>Thu, 15 May 2014 17:07:52 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/05/15/why-i-hate-the-phrase-corporate-america</guid>
+      <description>&lt;p&gt;It happens all the time when people want to blame someone. The phrase &quot;Corporate America&quot; gets used.
+This phrase is shallower than a lake in California, and people need to stop using it in their arguments.&lt;/p&gt;
+
+&lt;p&gt;I get it, corporations in the U.S. are self-serving, greedy, and gluttonous, but guess what?
+&lt;strong&gt;So are corporations in every country in every part of the world.&lt;/strong&gt; Why? Because corporations
+exist in an ecosystem in which taking more is rewarded greater than it is punished.&lt;/p&gt;
+
+&lt;p&gt;If you haven&#39;t done so already, you need to &lt;a href=&quot;http://www.geo.mtu.edu/~asmayer/rural_sustain/governance/Hardin%201968.pdf&quot;&gt;read The Tragedy of the Commons&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In a corporation, you have a group of individuals who are working together to achieve a common goal.
+Each person is responsible for individual components headed by a board of directors or c-level execs, or both.
+There is no decision made by the corporation itself, but rather by a group of people incentivized by
+the structure of the profit-driven economy you helped create.&lt;/p&gt;
+
+&lt;p&gt;Next time you think about using the phrase &quot;Corporate America&quot;, just remember that
+corporations are not sentient beings acting out of malice in order to maximize profit.
+Corporations are autonomous robots that provide the products and services that &lt;strong&gt;you&lt;/strong&gt;,
+the consumer, ask for.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Track the time (benchmark) a command takes in *NIX</title>
+      <link>http://brianw.io/blog/2014/04/22/track-the-time-benchmark-a-command-takes-in-star-nix</link>
+      <pubDate>Tue, 22 Apr 2014 17:58:29 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/04/22/track-the-time-benchmark-a-command-takes-in-star-nix</guid>
+      <description>&lt;p&gt;How do you benchmark commands in linux? Looking for the easiest way to
+track the time of a command on *NIX systems?&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;code&gt;time&lt;/code&gt; command.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;time my_command
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Consult &lt;code&gt;man time&lt;/code&gt; for a full list of options.&lt;/p&gt;
+
+&lt;p&gt;This post was migrated from &lt;a href=&quot;http://stackoverflow.com/questions/12096966/track-the-time-a-command-takes-unix-linux&quot;&gt;this Stack Overflow question.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Ruby on Rails Controller VS. Model</title>
+      <link>http://brianw.io/blog/2014/04/22/ruby-on-rails-controller-vs-model</link>
+      <pubDate>Tue, 22 Apr 2014 16:37:15 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/04/22/ruby-on-rails-controller-vs-model</guid>
+      <description>&lt;p&gt;This post is migrated from &lt;a href=&quot;http://stackoverflow.com/questions/20366236/rails-best-practices-controller-or-model/20366964#20366964&quot;&gt;this Stack Overflow question&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Often times the question comes up in Rails regarding what code belongs
+in the model vs the controller. Picture this, the web request comes into
+the controller, and from there we access the model, and then back into the
+controller. So to answer this question I would say that any code that
+can be used in multiple controllers should be moved to functions
+inside of a model.&lt;/p&gt;
+
+&lt;p&gt;Take the following example&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@user = User.find(params[:id])
+@stripe_cards = Stripe::Customer.retreive(@user.stripe_customer_id).cards.all
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Since I&#39;m fairly confident that we&#39;re going to want to use this
+feature of accessing the stripe customer of the user, I would define a method
+in the user model.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;class User.rb
+  def customer
+    Stripe::Customer.retreive(self.stripe_customer_id).cards.all
+  end
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The bottom line is, controllers should be used to find records and authrrize
+actions. Any time code can be reused in multiple controllers,
+move it to a model.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Unicoins are the Greatest Thing Ever</title>
+      <link>http://brianw.io/blog/2014/04/01/unicoins-are-the-greatest-thing-ever</link>
+      <pubDate>Tue, 01 Apr 2014 14:48:48 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/04/01/unicoins-are-the-greatest-thing-ever</guid>
+      <description>&lt;p&gt;If you haven&#39;t been on &lt;a href=&quot;http://stackoverflow.com&quot;&gt;Stack Overflow&lt;/a&gt; yet today, go now! Stack Overflow
+has introduced an awesome new cyber-currency, UNICOINS!&lt;/p&gt;
+
+&lt;p&gt;Unicoins can be used to do awesome things such as multiply your reputation by 10, or place your own
+avatar on a tag!&lt;/p&gt;
+
+&lt;p&gt;Obviously this is an April Fools Joke, but it&#39;s probably one of the best ones ever. If you want all
+the unicorns in the world, here is an auto-miner, written on &lt;a href=&quot;http://meta.stackoverflow.com/questions/227363/what-are-stack-overflow-unicoins&quot;&gt;this SO thread&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(function uniMine()
+{
+    $.getJSON(&#39;/unicoin/rock&#39;, function(data)
+    {
+        setTimeout(function()
+        {
+            $.post(&#39;/unicoin/mine?rock=&#39; + data.rock, {fkey: StackExchange.options.user.fkey});
+        }, 10000);
+    });
+    setTimeout(uniMine, 11000);
+})();
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Challenge Update: Delegating design with Elance</title>
+      <link>http://brianw.io/blog/2014/03/28/startup-challenge-update-delegating-design-with-elance</link>
+      <pubDate>Fri, 28 Mar 2014 01:15:49 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/28/startup-challenge-update-delegating-design-with-elance</guid>
+      <description>&lt;p&gt;So... I&#39;m bad at sales. I can&#39;t sell things, and it&#39;s a problem for me. This is why I&#39;ve
+started a challenge for myself I&#39;m calling the &quot;Startup Challenge&quot;. I&#39;m going to sell a simple
+website builder that creates a full domain name to website service for small businesses. Kind of
+like what launch rock does for startups.&lt;/p&gt;
+
+&lt;p&gt;Anyways... this is a brief update on the process, hiring a designer through &lt;a href=&quot;elance.com&quot;&gt;Elance&lt;/a&gt;.
+At first I was skeptical, I got bids from some people who clearly did not know what I was looking
+for. For example I had a pakistani design firm send me a fully buzzword-compliant bid on the project
+that included&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&quot;professional and all browsers compatible / mobile compatible design&quot;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;So clearly right at the beginning I was a little skeptical. Then I looked into their portfolio
+and while they looked like they had a decent eye for design, but their implementation was subpar.&lt;/p&gt;
+
+&lt;p&gt;It did not feel like Elance was coming through. I kindly rejected their bid and moved on to other
+proposals. &lt;strong&gt;Then the same designer offered to cut there price in half.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At this point, I was ready to move on to Odesk, which to be honest has a far sexier look to it, but
+later that day I got a bid on a design from &lt;a href=&quot;http://marmoncreations.com/&quot;&gt;Marmon Creations&lt;/a&gt;, a U.S.
+based designer. I had a quick Skype call with him and accepted his bid.&lt;/p&gt;
+
+&lt;p&gt;This all happened yesterday (with reference to the time of this writing obviously) so I&#39;m
+excited to see what designs he comes up with. More to come!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Challenge: Build a profitable business on a simple idea as fast as possible</title>
+      <link>http://brianw.io/blog/2014/03/22/startup-challenge-build-a-profitable-business-on-a-simple-idea-as-fast-as-possible</link>
+      <pubDate>Sat, 22 Mar 2014 06:11:33 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/22/startup-challenge-build-a-profitable-business-on-a-simple-idea-as-fast-as-possible</guid>
+      <description>&lt;p&gt;I like challenging myself, and lately I&#39;ve learned something about myself that I would like to improve.
+I suck at selling things. So over the next few weeks, or maybe months, I&#39;m going to blog about a
+new challenge that I&#39;ve created for my self. Build a simple product and get as many customers as
+possible.&lt;/p&gt;
+
+&lt;p&gt;So here&#39;s the idea: recently I offered to my friend to set up &lt;a href=&quot;http://eljuezchocolate.com&quot;&gt;a website for his super awesome
+business making bean-to-bar chocolate.&lt;/a&gt;, and I realized how incredibly painful
+the process is. I&#39;m building a website that is essentially a landing page service for small businesses.&lt;/p&gt;
+
+&lt;p&gt;I know it sounds cliché, so it&#39;s important to understand that this is not another website builder.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It&#39;s not Wix&lt;/li&gt;
+&lt;li&gt;It&#39;s not a blogging engine&lt;/li&gt;
+&lt;li&gt;It&#39;s not like anything you&#39;ve ever seen before&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The closest thing I can compare it to is &lt;a href=&quot;http://launchrock.co/&quot;&gt;LaunchRock&lt;/a&gt;, but a little more detailed,
+and for small businesses, not startups.&lt;/p&gt;
+
+&lt;p&gt;The goal is to give local businesses the ability to set up a basic info website and register a domain
+for $17/month. And the sweetest part is that they &lt;strong&gt;never have to deal with a domain registrar&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4&gt;How?&lt;/h4&gt;
+
+&lt;p&gt;I&#39;m going to handle the domain registration for them. They can make the site, enter a credit card,
+and then using a domain registration API, I&#39;m going to register the domain and set the records for them
+because I am a kick-ass developer (insert humility here, amirite?).&lt;/p&gt;
+
+&lt;p&gt;No more godaddys or network solutions or 1and1s. The working title is Localizr, because it is
+geared towards small businesses, and it&#39;s on it&#39;s way to creating a start to finish website
+for any and all small businesses.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>5 Reasons you're not at a startup</title>
+      <link>http://brianw.io/blog/2014/03/21/5-reasons-youre-not-at-a-startup</link>
+      <pubDate>Fri, 21 Mar 2014 16:34:58 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/21/5-reasons-youre-not-at-a-startup</guid>
+      <description>&lt;p&gt;Startups are more than just company size, there also an idea and a mentality, a mindset and a way of
+life, a set of rules and practices that aren&#39;t written or spoken, they just exist. Not being a part of
+a startup isn&#39;t necessarily a bad thing. All companies must grow at some point, here are five indicators
+that you are past your startup phase.&lt;/p&gt;
+
+&lt;h3&gt;#1&lt;/h3&gt;
+
+&lt;h4&gt;You have a last name in your email.&lt;/h4&gt;
+
+&lt;p&gt;Yes, if you work at a startup, and your email is anything other than firstname@example.com, you are not at a startup. Why? This is a clear distinction between the founders
+and the employees. It&#39;s sort of like a secretive email cast system that companies employ to deliniate between the starters and the joiners. Having a last initial is
+a way of saying &quot;this company doesn&#39;t know you on a first name basis&quot;. For example, when I say Jeff at Amazon, that is ONE person (Jeff Bezos). Same thing with Mark at Facebook or Tony
+at Zappos. Those people are on a first name basis with their company. If you have a last name or an initial in your email, you are not.&lt;/p&gt;
+
+&lt;h3&gt;#2&lt;/h3&gt;
+
+&lt;h4&gt;You don&#39;t have stock.&lt;/h4&gt;
+
+&lt;p&gt;This is an obvious one. No stock, not at a startup.&lt;/p&gt;
+
+&lt;h3&gt;#3&lt;/h3&gt;
+
+&lt;h4&gt;You have a schedule.&lt;/h4&gt;
+
+&lt;p&gt;If you clock in, clock out, or have someone to answer to, you&#39;re not at a startup. Startups are supposed to be relatively flat in structure, and everyones&#39; work speaks for itself.
+Having a time tracker, or some bullshit method of timetracking or project management, you are not at a startup.&lt;/p&gt;
+
+&lt;h3&gt;#4&lt;/h3&gt;
+
+&lt;h4&gt;You don&#39;t make your own decisions.&lt;/h4&gt;
+
+&lt;p&gt;The other day, I literally had my superior tell me, in my code, that the following lines&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;call_a.function() if condition_if_true?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Should be changed to&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if condition_is_true?
+    call_a.function()
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;for &quot;clarity&quot;. I was about ready to blow my brains out. If you don&#39;t have the freedom to make your own decisions and take control of the projects you work on, guess what, you&#39;re not at a startup.&lt;/p&gt;
+
+&lt;h3&gt;#5&lt;/h3&gt;
+
+&lt;h4&gt;You don&#39;t feel like part of the team.&lt;/h4&gt;
+
+&lt;p&gt;If you feel like there are decisions being made without you even knowing about them, or like you&#39;re not really in the loop, chances are you are not at a startup, just a small company.
+When you work in a startup environment, you know every intimate detail of the company, so much so that your probably sick of how it invades every aspect of your personal life.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>MeteorCast #3: How To Use Session Variables in Meteor.JS</title>
+      <link>http://brianw.io/blog/2014/03/19/meteorcast-number-3-how-to-use-session-variables-in-meteor-dot-js</link>
+      <pubDate>Wed, 19 Mar 2014 05:17:25 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/19/meteorcast-number-3-how-to-use-session-variables-in-meteor-dot-js</guid>
+      <description>&lt;p&gt;Here it is, the third MeteorCast.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/n8ORPuUf_9M&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;h4&gt;Notes&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;HTML&lt;/strong&gt;
+        &lt;head&gt;
+        &lt;title&gt;SpeedyRentals&lt;/title&gt;
+        &lt;/head&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    &amp;lt;body&amp;gt;
+
+
+
+
+
+    &amp;lt;/body&amp;gt;
+
+    &amp;lt;template name=&quot;newRental&quot;&amp;gt;
+    &amp;lt;h1&amp;gt;New Rental&amp;lt;/h1&amp;gt;
+
+    &amp;lt;input type=&quot;button&quot; value=&quot;New Rental&quot; class=&quot;new_rental btn btn-primary&quot; /&amp;gt;
+
+    &amp;lt;div class=&quot;rental_form&quot;&amp;gt;
+        &amp;lt;input type=&quot;text&quot; class=&quot;rental_name&quot; placeholder=&quot;Name&quot; /&amp;gt;
+        &amp;lt;input type=&quot;text&quot; class=&quot;rental_make&quot; placeholder=&quot;Make&quot; /&amp;gt;
+        &amp;lt;input type=&quot;text&quot; class=&quot;rental_model&quot; placeholder=&quot;Model&quot; /&amp;gt;
+        &amp;lt;input type=&quot;submit&quot; class=&quot;rental_submit&quot; /&amp;gt;
+    &amp;lt;/div&amp;gt;
+
+    &amp;lt;/template&amp;gt;
+
+    &amp;lt;template name=&quot;selectedRental&quot;&amp;gt;
+
+
+        &amp;lt;p&amp;gt;
+        You have selected 
+        &amp;lt;/p&amp;gt;
+
+
+    &amp;lt;p&amp;gt;
+        No rental selected...
+    &amp;lt;/p&amp;gt;
+
+    &amp;lt;/template&amp;gt;
+
+    &amp;lt;template name=&quot;airplanes&quot;&amp;gt;
+
+    &amp;lt;table class=&quot;table table-striped&quot;&amp;gt;
+        &amp;lt;tr&amp;gt;
+        &amp;lt;th&amp;gt;Name&amp;lt;/th&amp;gt;
+        &amp;lt;th&amp;gt;Make&amp;lt;/th&amp;gt;
+        &amp;lt;th&amp;gt;Model&amp;lt;/th&amp;gt;
+        &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+        &amp;lt;/tr&amp;gt;
+
+
+        &amp;lt;tr class=&quot;rental&quot;&amp;gt;
+            &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+            &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+            &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+            &amp;lt;td&amp;gt;&amp;lt;a href=&quot;#&quot; class=&quot;delete btn btn-danger&quot;&amp;gt;Delete&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;
+        &amp;lt;/tr&amp;gt;
+
+
+    &amp;lt;/table&amp;gt;
+
+    &amp;lt;/template&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;JS&lt;/strong&gt;
+    var Airplanes = new Meteor.Collection(&quot;airplanes&quot;);&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if (Meteor.isClient) {
+
+Template.newRental.rendered = function() {
+    $(&#39;.rental_form&#39;).hide();
+};
+
+Template.newRental.events({
+
+    &#39;click .new_rental&#39;: function () {
+
+    $(&#39;.rental_form&#39;).toggle();
+
+    },
+
+    &#39;click .rental_submit&#39;: function() {
+
+    Airplanes.insert({
+        name: $(&#39;.rental_name&#39;).val(),
+        make: $(&#39;.rental_make&#39;).val(),
+        model: $(&#39;.rental_model&#39;).val()
+    });
+
+    }
+});
+
+Template.selectedRental.rental = function() {
+    return Session.get(&quot;selected_rental&quot;);
+};
+
+Template.airplanes.rentals = function() {
+    return Airplanes.find({});
+};
+
+Template.airplanes.events({
+    &#39;click a.delete&#39;: function(e) {
+    e.preventDefault();
+    Airplanes.remove(this._id);
+    },
+
+    &#39;click .rental&#39;: function() {
+    Session.set(&quot;selected_rental&quot;, this);
+    }
+});
+
+}
+
+if (Meteor.isServer) {
+Meteor.startup(function () {
+    // code to run on server at startup
+});
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Become an OAuth2 Provider</title>
+      <link>http://brianw.io/blog/2014/03/16/become-an-oauth2-provider</link>
+      <pubDate>Sun, 16 Mar 2014 03:20:18 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/16/become-an-oauth2-provider</guid>
+      <description>&lt;p&gt;I know, you&#39;ve been waiting for the day where you could become an OAuth2 provider, without building your
+own OAuth2 server and authentication. Something that would integrate seamlessly with Devise, but also
+provide the advanced features you would expect out of a high quality Ruby Gem.&lt;/p&gt;
+
+&lt;h3&gt;Devise OAuth2 Rails&lt;/h3&gt;
+
+&lt;p&gt;is here!&lt;/p&gt;
+
+&lt;p&gt;And it only takes a second to add to your Rails 4 application!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gemfile&lt;/strong&gt;
+    gem &#39;devise_oauth2_rails4&#39;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Console&lt;/strong&gt;
+&lt;code&gt;bash
+rails g devise:oauth2:migrations
+rake db:migrate
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And that&#39;s it!&lt;/p&gt;
+
+&lt;p&gt;For the full documentation, check out &lt;a href=&quot;https://github.com/bwheeler96/devise_oauth2_rails4&quot;&gt;the GitHub page&lt;/a&gt;, and feel free to contribute!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Delete with AJAX in Rails</title>
+      <link>http://brianw.io/blog/2014/03/13/delete-with-ajax-in-rails</link>
+      <pubDate>Thu, 13 Mar 2014 14:52:07 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/13/delete-with-ajax-in-rails</guid>
+      <description>&lt;p&gt;One of the biggest pains in Rails when you&#39;re just starting out is that there is no AJAX, and it
+can be laborious to add AJAX to your site. The easiest AJAX snippet to add, by far, is a simple
+AJAX delete button.&lt;/p&gt;
+
+&lt;p&gt;If your running Rails, you&#39;ve seen the code below (Pretend we have a table holding all of our comments)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;%table
+    %tr
+        %th User
+        %th Comment
+        %th
+
+    - @comments.each do |comment|
+        %tr
+            %td= comment.user.name
+            %td= comment.text
+            %td= link_to &#39;Delete&#39;, comment_path(comment), method: :delete
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;How annoying is it that clicking that &lt;code&gt;Delete&lt;/code&gt; button will cause the page to reload &lt;strong&gt;every&lt;/strong&gt; time?&lt;/p&gt;
+
+&lt;p&gt;Using the following jQuery, we can add an AJAX delete to any model in our project, instantly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$(&#39;a.destroy&#39;).click(function(e) {
+    e.preventDefault();
+    destroyable = $(this).closest(&#39;.destroyable&#39;);
+    url = $(this).attr(&#39;href&#39;) + &#39;.json&#39;;
+    $.ajax(url, {
+        type: &#39;DELETE&#39;,
+        complete: function() {
+            $(destroyable).fadeOut(100);
+        }
+    });
+});
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And then just change your view accordingly&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;%table
+    %tr
+        %th User
+        %th Comment
+        %th
+
+    - @comments.each do |comment|
+        %tr.destroyable
+            %td= comment.user.name
+            %td= comment.text
+            %td= link_to &#39;Delete&#39;, comment_path(comment), class: &#39;destroy&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;See how this is extendable to literally any scaffold? It&#39;s only about 15 extra lines of code and
+it&#39;s a &lt;strong&gt;huge&lt;/strong&gt; UX improvement.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;-Brian&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>MeteorCast #2: Basics of Templates</title>
+      <link>http://brianw.io/blog/2014/03/13/meteorcast-number-2-basics-of-templates</link>
+      <pubDate>Thu, 13 Mar 2014 03:48:56 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/13/meteorcast-number-2-basics-of-templates</guid>
+      <description>&lt;h3&gt;Basics of Templates&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/1E94zoNcVfk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;h4&gt;Code&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;SpeedyRentals&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+
+&amp;lt;body&amp;gt;
+
+    {{&amp;gt; newRental}}
+
+&amp;lt;/body&amp;gt;
+
+&amp;lt;template name=&quot;newRental&quot;&amp;gt;
+  &amp;lt;h1&amp;gt;New Rental&amp;lt;/h1&amp;gt;
+
+  &amp;lt;input type=&quot;button&quot; value=&quot;New Rental&quot; class=&quot;new_rental btn btn-primary&quot; /&amp;gt;
+
+  &amp;lt;div class=&quot;rental_form&quot;&amp;gt;
+    &amp;lt;input type=&quot;submit&quot; class=&quot;rental_submit&quot; /&amp;gt;
+  &amp;lt;/div&amp;gt;
+
+&amp;lt;/template&amp;gt;
+
+&amp;lt;/template&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>MeteorCast #1: Intro to C.R.U.D.</title>
+      <link>http://brianw.io/blog/2014/03/12/meteorcast-number-1-intro-to-c-dot-r-u-dot-d</link>
+      <pubDate>Wed, 12 Mar 2014 18:27:56 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/12/meteorcast-number-1-intro-to-c-dot-r-u-dot-d</guid>
+      <description>&lt;p&gt;Basically just an intro into how to interact with a database in Meteor.JS. To run this yourself, you can get the code below the video.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/kWOStdgbUrQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;HTML&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;SpeedyRentals&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+
+&amp;lt;body&amp;gt;
+
+
+
+&amp;lt;/body&amp;gt;
+
+&amp;lt;template name=&quot;newRental&quot;&amp;gt;
+  &amp;lt;h1&amp;gt;New Rental&amp;lt;/h1&amp;gt;
+
+  &amp;lt;input type=&quot;button&quot; value=&quot;New Rental&quot; class=&quot;new_rental&quot; /&amp;gt;
+
+  &amp;lt;div class=&quot;rental_form&quot;&amp;gt;
+    &amp;lt;input type=&quot;text&quot; class=&quot;rental_name&quot; placeholder=&quot;Name&quot; /&amp;gt;
+    &amp;lt;input type=&quot;text&quot; class=&quot;rental_make&quot; placeholder=&quot;Make&quot; /&amp;gt;
+    &amp;lt;input type=&quot;text&quot; class=&quot;rental_model&quot; placeholder=&quot;Model&quot; /&amp;gt;
+    &amp;lt;input type=&quot;submit&quot; class=&quot;rental_submit&quot; /&amp;gt;
+  &amp;lt;/div&amp;gt;
+
+&amp;lt;/template&amp;gt;
+
+&amp;lt;template name=&quot;airplanes&quot;&amp;gt;
+
+  &amp;lt;table&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;Name&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;Make&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;Model&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+
+
+      &amp;lt;tr&amp;gt;
+        &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+        &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+        &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+        &amp;lt;td&amp;gt;&amp;lt;a href=&quot;#&quot; class=&quot;delete&quot;&amp;gt;Delete&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;/tr&amp;gt;
+
+
+  &amp;lt;/table&amp;gt;
+
+&amp;lt;/template&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Javascript&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;var Airplanes = new Meteor.Collection(&quot;airplanes&quot;);
+
+if (Meteor.isClient) {
+
+  Template.newRental.rendered = function() {
+    $(&#39;.rental_form&#39;).hide();
+  };
+
+  Template.newRental.events({
+
+    &#39;click .new_rental&#39;: function () {
+
+      $(&#39;.rental_form&#39;).toggle();
+
+    },
+
+    &#39;click .rental_submit&#39;: function() {
+
+      Airplanes.insert({
+        name: $(&#39;.rental_name&#39;).val(),
+        make: $(&#39;.rental_make&#39;).val(),
+        model: $(&#39;.rental_model&#39;).val()
+      });
+
+    }
+
+  });
+
+  Template.airplanes.rentals = function() {
+    return Airplanes.find({});
+  };
+
+  Template.airplanes.events({
+    &#39;click a.delete&#39;: function(e) {
+      e.preventDefault();
+      Airplanes.remove(this._id);
+    }
+  });
+
+}
+
+if (Meteor.isServer) {
+  Meteor.startup(function () {
+    // code to run on server at startup
+  });
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Understanding Computer Network Security Part 3: Man in the Middle</title>
+      <link>http://brianw.io/blog/2014/03/11/understanding-computer-network-security-part-3-man-in-the-middle</link>
+      <pubDate>Tue, 11 Mar 2014 05:16:21 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/03/11/understanding-computer-network-security-part-3-man-in-the-middle</guid>
+      <description>&lt;p&gt;This post is part of &lt;a href=&quot;http://brianw.io/blog/2014/02/05/understanding-computer-network-security/&quot;&gt;a series about computer network security&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Today&#39;s lesson in computer network security begins with a basic knowledge of public key encryption.
+Public key encryption is how it is possible for me to tell you some information over an insecure channel
+(the internet), and be able to obscure that information from an attacker, without ever using a private channel.
+This can be a REALLY hard concept to wrap your head around, and there&#39;s a lot more to it than what I&#39;m
+covering here, if you wan&#39;t, you can view &lt;a href=&quot;https://www.khanacademy.org/math/applied-math/cryptography/modern-crypt/v/diffie-hellman-key-exchange--part-1&quot;&gt;this awesome khan academy regarding public key encryption.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What you do need to know about public key encryption is that it is the secret sauce that protects passwords,
+credit cards, bank account info, and virtually anything getting transmitted over the internet.
+The main idea is that if you have a public key and a private key, and I have a public key and a private
+key, we can exchange information safely. Each key is a essentially a random set of characters, the public
+key is shared, the private key is not.&lt;/p&gt;
+
+&lt;p&gt;Well what if I use the &lt;a href=&quot;http://brianw.io/blog/2014/02/20/understanding-computer-network-security-part-2-wireless-network-poisoning/&quot;&gt;tactics described in my previous post&lt;/a&gt;
+to replace a website&#39;s public key with my own public key? Well then I have effectively tricked you into
+encrypting all of your data in a format that only I can read, and once I send it off to the website
+you were trying to access, no one will be any the wiser, sort of...&lt;/p&gt;
+
+&lt;p&gt;So how can you protect against getting wrapped up into a MitM attack? Well there are a number of ways&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Avoid doing sensitive transactions over public WiFi, watch movies, browse the internet,
+but don&#39;t move your money around, check your credit card statement, etc.&lt;/li&gt;
+&lt;li&gt;If you see this red warning, keep in mind that someone might be trying to spy on you, and your
+sensitive data may not be safe.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/images/ssl_warning.jpeg&quot; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Understanding Computer Network Security Part 2: Wireless Network Poisoning</title>
+      <link>http://brianw.io/blog/2014/02/20/understanding-computer-network-security-part-2-wireless-network-poisoning</link>
+      <pubDate>Thu, 20 Feb 2014 09:16:09 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/02/20/understanding-computer-network-security-part-2-wireless-network-poisoning</guid>
+      <description>&lt;p&gt;If you haven&#39;t already, checkout my last post regarding &lt;a href=&quot;http://brianw.io/blog/2014/02/15/understanding-computer-network-security-part-1-wireless-network-sniffing/&quot;&gt;wireless network sniffing&lt;/a&gt;
+as it will help set the scene for what&#39;s going on here.&lt;/p&gt;
+
+&lt;p&gt;Wireless network poisoning is the practice of getting onto a wireless network, and then tricking other users
+of the network to route all of the traffic to your computer, &lt;strong&gt;before&lt;/strong&gt; it goes to the router, and therefore,
+before it goes on to the internet. By &quot;user&quot;, I mean any device connected to the network such as a phone,
+laptop, tablet, pc, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/noobs.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As that image comically points out, wireless network signals are sent in all directions, so the attacker
+actually doesn&#39;t need to be in between you and the network, or have physical access to any device.&lt;/p&gt;
+
+&lt;p&gt;Now let&#39;s pretend I have poisoned a network, and I&#39;m getting all of those sweet sweet 802.11 frames (data).
+What can I actually do with this? Well a few problems come to mind&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I can read your potentially sensitive unencrypted info, potentially passwords, browser cookies, etc., unless of course, you are on an encrypted connection.&lt;/li&gt;
+&lt;li&gt;I can modify the information that the router returns to you.&lt;/li&gt;
+&lt;li&gt;I can take this a step further by tampering with encryption, which is more easily detectable, and easy to defend yourself from.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;The first item on the list, &lt;a href=&quot;http://brianw.io/blog/2014/02/15/understanding-computer-network-security-part-1-wireless-network-sniffing/&quot;&gt;we talked about earlier&lt;/a&gt;, and the last item we will get to eventually,
+but the second item on our list is by far the most interesting. When I have all of the traffic running
+through my computer, I can actually edit what gets sent back to the user.&lt;/p&gt;
+
+&lt;p&gt;How is this dangerous? Well what if you were trying to access Facebook, and instead, I sent you a new
+version of Facebook that has a little bit of code in the background that sends me every keypress you
+type. This could include any private message, credit card, password, etc.&lt;/p&gt;
+
+&lt;p&gt;How do you defend against an attack like this? Well first off, you shouldn&#39;t send private information
+over a public WiFi network. Secondly, ensure that encryption is available on websites that you are browsing.&lt;/p&gt;
+
+&lt;p&gt;To learn more about how wireless network poisoning works, learn about &lt;a href=&quot;http://en.wikipedia.org/wiki/Address_Resolution_Protocol&quot;&gt;the ARP protocol&lt;/a&gt;.
+Also, it would certainly be worth while to take a look at &lt;a href=&quot;http://ettercap.github.io/ettercap/&quot;&gt;Ettercap&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Understanding Computer Network Security Part 1: Wireless Network Sniffing</title>
+      <link>http://brianw.io/blog/2014/02/15/understanding-computer-network-security-part-1-wireless-network-sniffing</link>
+      <pubDate>Sat, 15 Feb 2014 06:11:01 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/02/15/understanding-computer-network-security-part-1-wireless-network-sniffing</guid>
+      <description>&lt;p&gt;Welcome to the first part in my newest series, &lt;a href=&quot;http://brianw.io/blog/2014/02/05/understanding-computer-network-security/&quot;&gt;&quot;Understanding Computer Network Security&quot;&lt;/a&gt;, where I try and give a brief overview of the general topics of computer security, and how to protect yourself.&lt;/p&gt;
+
+&lt;p&gt;The first attack I&#39;m going to talk about in this series is what happens the moment that information leaves your computer and enters a wireless network. Imagine you
+visit a website called generic-example.com. The first thing that is going to happen is your computer will send out a request asking generic-example.com for the homepage.
+Generic-example.com responds with the information that you requested and the process is pretty much complete. It seems pretty harmless, so lets look at a more dangerous example.&lt;/p&gt;
+
+&lt;p&gt;Imagine that website X wants you to sign up for their great new photo sharing service. You enter in your email and your desired password and your in, but not without caveats. When you submit your email
+and your password to website X, your browser actually puts that information in the URL (it&#39;s how the data is transported), and then broadcasts it all across the wireless network you are on.
+Wireless communications broadcast in all directions, indiscriminantly. Now anyone on your network will see a request being made to
+&lt;code&gt;generic-ecample.com/users/sign_up?email=testemail@example.com&amp;amp;password=my_generic_password&lt;/code&gt;. All data that gets sent over the internet gets sent in a format similiar to this. Bank accounts, credit cards, passwords, emails, SSN&#39;s, etc. All of it.&lt;/p&gt;
+
+&lt;p&gt;Ok, so I maybe massaged the truth a little bit for the sake of riling you up, there are ways of hiding your information from other people on wireless networks. It&#39;s called &lt;strong&gt;encryption&lt;/strong&gt;.
+On a wireless network, there are two layers of encryption, there is the encryption that is generated when you enter the password for the network, this &lt;strong&gt;only&lt;/strong&gt; occurs if you are on a password protected network, and anyone else who has the password can break this encryption protocol with little to no effort. The second form of encryption is called SSL, which stands for Secure Socket Layer. Use of SSL changes on a website to website basis, but theres a really easy way to tell. Almost all browsers in use now will have a green bar at the top, or a lock, or some form of reassuring security icon by the URL that will inform you that you are using safe browsing.&lt;/p&gt;
+
+&lt;p&gt;Not all websites offer SSL, and that&#39;s OK, it&#39;s not absolutely necessary for every site, but you should be aware that you should NEVER share credit card info with a site that doesn&#39;t use SSL, and you should probably pick different passwords for sites using SSL and sites that aren&#39;t.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Understanding Computer Network Security: Intro</title>
+      <link>http://brianw.io/blog/2014/02/05/understanding-computer-network-security</link>
+      <pubDate>Wed, 05 Feb 2014 08:45:39 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/02/05/understanding-computer-network-security</guid>
+      <description>&lt;p&gt;Lately, it seems as if the media has been super hyped on declaring &quot;hacks&quot; and spewing a lot of inaccurate information on what got &quot;hacked&quot; and who was affected by the &quot;hack&quot;.
+In this series I&#39;m going to write a post on each of the different access points that a computer&#39;s sensitive information can be accessed from, and what the protection options are.&lt;/p&gt;
+
+&lt;p&gt;Before I start writing detailed posts on network security, I would like to go over the &lt;strong&gt;more common&lt;/strong&gt; points at which a computer &quot;hack&quot; can occur. Keep in mind that I&#39;ve never seen
+formal writing about different &quot;access points&quot; for sensitive data, so the nomanclature used in this post may not be widely acceptable, but it should still be applicable.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://brianw.io/blog/2014/02/15/understanding-computer-network-security-part-1-wireless-network-sniffing/&quot;&gt;Wireless network sniffing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://brianw.io/blog/2014/02/20/understanding-computer-network-security-part-2-wireless-network-poisoning/&quot;&gt;Wireless network poisoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://brianw.io/blog/2014/03/10/understanding-computer-network-security-part-3-man-in-the-middle/&quot;&gt;Encryption tampering (Man in the Middle)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Man in the Browser&lt;/li&gt;
+&lt;li&gt;XSS (Cross Site Scripting)&lt;/li&gt;
+&lt;li&gt;Directory Traversal&lt;/li&gt;
+&lt;li&gt;Cookie forgery&lt;/li&gt;
+&lt;li&gt;Session hijacking&lt;/li&gt;
+&lt;li&gt;SQL Injection&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Wireless network sniffing&lt;/strong&gt; -
+Did you know that when you use wireless networks, you transmit data in all directions? Often times unencrypted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wireless network poisoning&lt;/strong&gt; -
+Wireless networks can be tricked very easily, because wireless devices trust all other wireless devices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Man in the Middle&lt;/strong&gt; -
+People near you can tamper with encryption protocols.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Man in the Browser&lt;/strong&gt; -
+If someone has access to your computer, they can put extra code inside your web browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;XSS&lt;/strong&gt; -
+Status updates, tweets, posts, videos, and any text on the internet is a potential harborer of hidden code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Directory Traversal&lt;/strong&gt; -
+An obscure attack on a web server.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cookie Forgery&lt;/strong&gt; -
+Another obscure attack on a web server&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session Hijacking&lt;/strong&gt; -
+Similar to cookie forgery&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SQL Injection&lt;/strong&gt; -
+A way of fooling a database&lt;/p&gt;
+
+&lt;p&gt;Stay tuned, I&#39;ll be adding a new post detailing each attack every day or so.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>How to use publish and subscribe in Meteor.JS</title>
+      <link>http://brianw.io/blog/2014/01/31/how-to-use-publish-and-subscribe-in-meteor-dot-js</link>
+      <pubDate>Fri, 31 Jan 2014 11:32:56 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/31/how-to-use-publish-and-subscribe-in-meteor-dot-js</guid>
+      <description>&lt;p&gt;If you&#39;ve been on the blogosphere lately, or on Stack Overflow, or on Twitter, or anywhere where anyone is talking about Meteor JS, then you know that the two hottest topics are
+security and scalability. Security in Meteor can be tricky to get the hang of, but basically, a lot of it hinges on the methods &lt;code&gt;.publish&lt;/code&gt; and &lt;code&gt;.subscribe&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The publish method in meteor really doesn&#39;t do all to much, but what it does is super, super important. &lt;code&gt;.publish()&lt;/code&gt; controls which data can be recieved by the client. Most of what
+publish does is behind the scenes, but it&#39;s important.&lt;/p&gt;
+
+&lt;p&gt;Key notes on &lt;code&gt;.publish&lt;/code&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Publish works with respect to a session&lt;/li&gt;
+&lt;li&gt;Publish has the ability to show different things to different people.&lt;/li&gt;
+&lt;li&gt;Publish works dynamically&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;For example, if I had a meteor app, and I wrote something like
+&lt;code&gt;
+var Posts = new Meteor.Collection(&quot;posts&quot;);
+Meteor.publish(&quot;current_users_posts&quot;, function() {
+    return Posts.find({ userId: this.userId });
+}
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;We would then be prohibiting any user from accessing any part of the &lt;code&gt;Posts&lt;/code&gt; collection that does not belong to them. All we have to do now is subscribe the client side code to the collection.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// In your client code
+Meteor.subscribe(&quot;current_user_posts&quot;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Meteor will handle the rest. Obviously there is more to be learned, documentation for these methods can be found below.&lt;/p&gt;
+
+&lt;p&gt;http://docs.meteor.com/#meteor_publish
+http://docs.meteor.com/#meteor_subscribe&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Using Git Effectively</title>
+      <link>http://brianw.io/blog/2014/01/29/using-git-effectively</link>
+      <pubDate>Wed, 29 Jan 2014 17:55:24 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/29/using-git-effectively</guid>
+      <description>&lt;p&gt;Using git effectively can be a challenge for a lot of people. I&#39;m going to run through a quick tutorial on how I like to use Git to segment my changes, manage my branches, and merge my code.&lt;/p&gt;
+
+&lt;h3&gt;Basic command tips&lt;/h3&gt;
+
+&lt;p&gt;Here are the basic Git commands that I use over and over throughout the day&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Adds all new files to the repository
+git add -A
+
+# commit -am means &quot;commit all files with the following message&quot;
+# Messages are required in Git commits
+git commit -am &#39;my new changes!&#39;
+
+# Push your changes
+git push remote_name branch_name
+
+# Pull the latest code
+git pull remote_name branch_name
+
+# Switches branches
+git checkout my_branch
+
+# Creates a new branch called &quot;branch&quot;, and switches into that branch
+git checkout -b branch
+
+# Merges the specified branch into the current branch
+git merge other_branch
+
+### Segment Changes
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Seriously, if you work on an application that already has a user base, segmenting changes is so, &lt;strong&gt;so important&lt;/strong&gt;. Let&#39;s say your on the master branch and you would like to implement two new features,
+a new login form, and a new dashboard. &lt;strong&gt;Put these changes into separate branches&lt;/strong&gt;. Here&#39;s how.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# On master
+
+# creates a new branch called login and moves into that branch
+git checkout -b login
+
+# Now make the new login page, and commit your changes
+git commit -am &#39;new login page&#39;
+
+# Great job, now let&#39;s make the new dashboard
+
+# Switch back to master
+git checkout master
+
+# Now make another copy of the master branch, and switch into it
+git checkout -b dashboard
+
+# Make the new dashboard, and commit your changes
+git commit -am &#39;new dashboard!&#39;
+
+# Now you have three branches: master, dashboard, and login
+# When your code has been tested and/or looked over, you can merge
+git checkout master
+git merge dashboard
+git merge login
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;See how clean and easy it was to make changes in separate branches, and then merge them when we&#39;re ready.&lt;/p&gt;
+
+&lt;h3&gt;Managing branches &amp;amp; merging&lt;/h3&gt;
+
+&lt;p&gt;If you are working on applications that can&#39;t break, you probably have a staging environment set up for them.
+If you have a staging environment, you probably have three different remote git repositories, origin (on github.com), staging, and production,
+or something to that effect. When I have to make changes here is what I like to do.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# From branch master
+git checkout -b my_change
+
+# Do work &amp;amp; commit
+git commit -am &#39;did work&#39;
+
+# Make a staging branch from the my_change branch
+git checkout -b staging
+
+# Push to the staging branch to the master branch on the staging server
+git push staging staging:master
+
+# Now that we&#39;re sure everything works
+git checkout master
+
+# Merge either the whole staging branch,
+# or if you have multiple changes, merge
+# them one by one.
+
+git merge staging
+# OR
+git merge my_change
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Free Geocoding is Finally Here!</title>
+      <link>http://brianw.io/blog/2014/01/29/free-geocoding-is-finally-here</link>
+      <pubDate>Wed, 29 Jan 2014 14:30:43 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/29/free-geocoding-is-finally-here</guid>
+      <description>&lt;p&gt;A few months ago I set out on a school project, &lt;a href=&quot;http://hashtagmapper.com&quot;&gt;HashtagMapper&lt;/a&gt;, where I wanted to be able to map tweets that we&#39;re collected through the Twitter API.
+Unfortunately I couldn&#39;t find a geocoding service that would take values such as &quot;Santa Barbara&quot; and convert them to latitude longitude format for me, so I built it myself!&lt;/p&gt;
+
+&lt;h3&gt;Hosted&lt;/h3&gt;
+
+&lt;p&gt;If you want a free, hosted geocoding service, here it is: &lt;a href=&quot;http://geocodeforfree.com&quot;&gt;Geocode For Free&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Build it yourself!&lt;/h3&gt;
+
+&lt;p&gt;If you need intensive, pocket-sized geocoding for the on-the-go data mapper, here are instructions on how to make your very own build of Geocode For Free.&lt;/p&gt;
+
+&lt;p&gt;Geocode within the U.S. and Canada completely free of charge.&lt;/p&gt;
+
+&lt;h4&gt;Setup&lt;/h4&gt;
+
+&lt;p&gt;Note that you have the option to use the hosted version of this project, at &lt;a href=&quot;http://geocodeforfree.com&quot;&gt;geocodeforfree.com&lt;/a&gt;, however if you want to host the project yourself here are the instructions.&lt;/p&gt;
+
+&lt;h4&gt;Get a copy&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone git@github.com:bwheeler96/Geocode-For-Free.git
+cd Geocode-For-Free
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Bundle&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;bundle install
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Setup the database&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;rake db:migrate
+cat cities.sql | sqlite3 db/geocode.sqlite3
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Starting the server&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;ruby config.ru
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Happy coding!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Meteor.JS Tutorial #2: Listening for Events in Meteor</title>
+      <link>http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-2-listening-for-events-in-meteor</link>
+      <pubDate>Tue, 28 Jan 2014 20:26:49 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-2-listening-for-events-in-meteor</guid>
+      <description>&lt;p&gt;Listening for events in Meteor is super simple, all you need to do is tell meteor which template we&#39;re talking about, and what event to listen for.&lt;/p&gt;
+
+&lt;p&gt;In your view (.html file)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;body&amp;gt;
+
+&amp;lt;/body&amp;gt;
+
+&amp;lt;template name=&quot;clickToAlert&quot;&amp;gt;
+    &amp;lt;button id=&quot;alert&quot;&amp;gt;Alert Now!&amp;lt;/button&amp;gt;
+&amp;lt;/template&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We have defined a template with a button, and rendered the template using ``. Now let&#39;s bind some events.&lt;/p&gt;
+
+&lt;p&gt;In your JS file, under the client code, let&#39;s write&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if (Meteor.isClient) {
+
+    // Here we call Template.TEMPLATE_NAME.events(events_to_bind)
+    // Where the `events_to_bind` is a javascript object of events to listen for.
+    Template.clickToAlert.events({
+
+        // The structure for the string below is &#39;event_name jquery_selector&#39;
+        /* 
+         * Examples:
+         * &#39;dblclick #my-doubleclick-button&#39; would listen for a double click
+         * &#39;keydown input#email&#39; would listed for keydown on the input with ID of &quot;email&quot;
+         * you get the idea
+        */ 
+        &#39;click button#alert&#39; : function() {
+            alert(&#39;Hey there, you just listened for an event!&#39;);
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I hope this tutorial was helpful. If you liked this, don&#39;t miss my &lt;a href=&quot;http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-1-getting-started-guide-for-meteor-js/&quot;&gt;intro to meteor post&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Meteor.JS Tutorial #1: Getting Started Guide for Meteor JS</title>
+      <link>http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-1-getting-started-guide-for-meteor-js</link>
+      <pubDate>Tue, 28 Jan 2014 17:26:33 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-1-getting-started-guide-for-meteor-js</guid>
+      <description>&lt;p&gt;If you&#39;re like me, you are cautiously optimistic about new technology, such as Meteor.js. I&#39;m very excited to see how Meteor develops, and what it will mean for the future of web development.
+I&#39;ve been playing around with Meteor, so I wanted to do a quick tutorial.&lt;/p&gt;
+
+&lt;p&gt;To get started, go &lt;a href=&quot;http://meteor.com&quot;&gt;get yourself a copy of Meteor.js&lt;/a&gt;. Once you have done that, create a sample application by typing &lt;code&gt;meteor create my_app&lt;/code&gt; at the console.
+(This tutorial assumes you have basic web development and console skills.)&lt;/p&gt;
+
+&lt;p&gt;Now type &lt;code&gt;cd my_app/&lt;/code&gt; in terminal.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;tree&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;├── my_app.css
+├── my_app.html
+└── my_app.js
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cool! You now have a single-page meteor app! You can put your styles in the css file (duh), now let&#39;s take a look at the MyApp.js file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if (Meteor.isClient) {
+  Template.hello.greeting = function () {
+    return &quot;Welcome to my_app.&quot;;
+  };
+
+  Template.hello.events({
+    &#39;click input&#39; : function () {
+      // template data, if any, is available in &#39;this&#39;
+      if (typeof console !== &#39;undefined&#39;)
+        console.log(&quot;You pressed the button&quot;);
+    }
+  });
+}
+
+if (Meteor.isServer) {
+  Meteor.startup(function () {
+    // code to run on server at startup
+  });
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The first thing I notice right off the bat is we have these &lt;code&gt;Meteor.isClient&lt;/code&gt; and &lt;code&gt;Meteor.isServer&lt;/code&gt; methods. Meteor has some sort of secret sauce that will make sure that
+the code you put on the server side will &lt;strong&gt;not&lt;/strong&gt; be exposed to the client, and vice versa (thankfully). There are certain things that you can and cannot do on the client side in
+meteor, for the sake of data-security, but more on tht later.&lt;/p&gt;
+
+&lt;p&gt;The next thing I notice is the property on the &lt;code&gt;Template&lt;/code&gt; object. If we look at our &lt;code&gt;my_app.html&lt;/code&gt; file, we see&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;my_app&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+
+&amp;lt;body&amp;gt;
+
+&amp;lt;/body&amp;gt;
+
+&amp;lt;template name=&quot;hello&quot;&amp;gt;
+  &amp;lt;h1&amp;gt;Hello World!&amp;lt;/h1&amp;gt;
+
+  &amp;lt;input type=&quot;button&quot; value=&quot;Click&quot; /&amp;gt;
+&amp;lt;/template&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In Meteor, we don&#39;t use HTML in the old-school way of compiling pages with server variables (MVC style), now there is this new idea of MVM, or Model-View-Model.
+In Meteor, you will find that the server code is bound almost directly to the view. If we want something to happen server-side on click, we can simply call the
+&lt;code&gt;events&lt;/code&gt; method the corresponding template. Meteor will bind &lt;code&gt;Template.template_name&lt;/code&gt; to the corresponding template, defined by the name attribute.&lt;/p&gt;
+
+&lt;p&gt;I hope this tutorial was a helpful intro into Meteor JS! If you&#39;re looking for more meteor, don&#39;t miss my tutorial on &lt;a href=&quot;http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-2-listening-for-events-in-meteor/&quot;&gt;how to listen for events in Meteor.js!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Arduino Learning #4: Defining Functions</title>
+      <link>http://brianw.io/blog/2014/01/22/arduino-learning-number-4-defining-functions</link>
+      <pubDate>Wed, 22 Jan 2014 10:03:09 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/22/arduino-learning-number-4-defining-functions</guid>
+      <description>&lt;p&gt;At this point in arduino learning, I&#39;m sure you&#39;ve seen the &lt;code&gt;loop()&lt;/code&gt; and &lt;code&gt;setuo()&lt;/code&gt; functions, but do we
+actually know what they are? And how can we define our own functions?&lt;/p&gt;
+
+&lt;p&gt;Functions are a saved set of instructions for the computer to reuse, so instead of re-writing
+all of the code you want to reuse, you can wrap your code in functions.&lt;/p&gt;
+
+&lt;p&gt;Functions can also have return values. Let&#39;s do an example I&#39;m sure we&#39;re all familiar with.&lt;/p&gt;
+
+&lt;p&gt;You probably remember seeing functions like this in math class &lt;code&gt;f(x) = x * x&lt;/code&gt;. Can you
+guess the return value of &lt;code&gt;f(2)&lt;/code&gt;?&lt;/p&gt;
+
+&lt;p&gt;Let&#39;s try an example in C code.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;int product( int x, int y )
+{
+    return x * y;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Breaking that down into to parts, we can see on the first line we declare the data type the function
+will return, in this case and &lt;code&gt;int&lt;/code&gt; or integer. After we write &lt;code&gt;product(&lt;/code&gt;, we tell the computer
+what arguments this function will take. Again we must specify the data type for each argument. Arguments
+must be comma-separated.&lt;/p&gt;
+
+&lt;p&gt;After the first line (&lt;code&gt;int product(int x, int y)&lt;/code&gt;), where we declared the function return type, name,
+and arguments, we have the instructions, which we must place in between the &lt;code&gt;{}&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The third line of the function (&lt;code&gt;return x * y;&lt;/code&gt;), tells the function what to return.&lt;/p&gt;
+
+&lt;h4&gt;Examples&lt;/h4&gt;
+
+&lt;p&gt;Try and figure out the return values.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;int a = product(1, 3);
+int b = product(3, 5);
+int c = product(8, 2);
+
+
+// a = 3, b = 15, and c = 16 respectively.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;More examples&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;// Notice how I didn&#39;t put the &quot;{&quot; on a new line. Style points.
+float hypotenuse(int a, int b) {
+
+    int cSquared = product(a, a) + product(b, b);
+
+    // using the built-in sqrt() function to get the square root of a^2 + b^2
+    return sqrt(cSquared);
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Other important things.&lt;/h4&gt;
+
+&lt;p&gt;Every language has their own style conventions for variable and function names.&lt;/p&gt;
+
+&lt;p&gt;In C, C++, JavaScript, objective C, and many others, you are supposed to use camelCase.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cammelCase&lt;/li&gt;
+&lt;li&gt;thisIsACamelCaseWord&lt;/li&gt;
+&lt;li&gt;hereIsAnotherCamelCaseExample&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;in Ruby, Python and a number of other languages, we use &lt;code&gt;_&lt;/code&gt;, for breaking words apart.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ruby_variable&lt;/li&gt;
+&lt;li&gt;other_ruby_variable&lt;/li&gt;
+&lt;li&gt;first_name&lt;/li&gt;
+&lt;li&gt;last_name&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;And &lt;strong&gt;almost always&lt;/strong&gt;, you won&#39;t be able to capitalize a variable. This is often enforced.&lt;/p&gt;
+
+&lt;p&gt;MY_VARIABLE would not fly in most languages, because all caps is reserved for use in constants.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Arduino Learning #3: Important Concepts</title>
+      <link>http://brianw.io/blog/2014/01/22/arduino-learning-number-3-important-concepts</link>
+      <pubDate>Wed, 22 Jan 2014 09:51:07 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/22/arduino-learning-number-3-important-concepts</guid>
+      <description>&lt;p&gt;Computer science is a broad field, so is electrical engineering, and Arduino kindof requires
+some knowledge of both, so I wanted to offer a few important concepts for the
+computer science concepts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You will not always know exactly what goes on behind the scenes. It&#39;s not fun, but it&#39;s just a fact.&lt;/strong&gt;
+What I mean by this is, you will have functions such as &lt;code&gt;analogWrite()&lt;/code&gt; or &lt;code&gt;analogRead()&lt;/code&gt; or &lt;code&gt;delay()&lt;/code&gt;,
+and you will probably never know exactly what goes on behind the scenes. The faster you can become
+comfortable looking at &lt;a href=&quot;http://arduino.cc/en/Reference/HomePage&quot;&gt;the documentation&lt;/a&gt; the better
+experience you will have with learning arduino.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Functions take arguments.&lt;/strong&gt; I haven&#39;t really mentioned this before, but functions take
+arguments, separated by a comma (&lt;code&gt;,&lt;/code&gt;). As a general rule of thumb, functions have a set
+amount of arguments, and all arguments must be provided. Order does matter.&lt;/p&gt;
+
+&lt;h4&gt;Example&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code&gt;analogWrite()&lt;/code&gt; function takes two arguments, the pin number, and the output power.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// Outputs maximum power to pin 3.
+analogWrite(3, 255);
+
+// Causes errors.
+analogWrite(255, 3);
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Arduino Learning #2: digitalWrite, analogWrite, and which pins are which.</title>
+      <link>http://brianw.io/blog/2014/01/21/arduino-learning-number-2-digitalwrite-analogWrite-and-which-pins-are-which</link>
+      <pubDate>Tue, 21 Jan 2014 13:56:00 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/21/arduino-learning-number-2-digitalwrite-analogWrite-and-which-pins-are-which</guid>
+      <description>&lt;p&gt;Without knowing how to use the pins on the Arduino board, you basically just have a fancy battery.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ArduinoUno_R3_Front_450px.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here we can see the pins. There are three sections&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Digital &lt;strong&gt;Output&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Analog &lt;strong&gt;Input&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Power&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Try and find all three sections.&lt;/p&gt;
+
+&lt;p&gt;Now look closely at the digital pin section. Some pins have a &lt;code&gt;~&lt;/code&gt; next to them. This means that they are capable
+of acting as an &lt;strong&gt;analog output&lt;/strong&gt; or &lt;a href=&quot;http://arduino.cc/en/Tutorial/PWM&quot;&gt;&lt;strong&gt;PWM&lt;/strong&gt;&lt;/a&gt;. We can use the
+pins in this section for sending out data, to do things such as control motors and LED&#39;s, write
+things to a screen, or even &lt;a href=&quot;http://makezine.com/2008/02/25/how-to-make-plants-talk-t/&quot;&gt;send us a tweet when our plants need to be watered.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the section labeled &quot;Analog&quot; we see there isn&#39;t a lot of variation in the markings. All these pins do is
+read data. For example if you wired a circuit with a thermistor connected to you analog input, you
+could very easily make a thermometer.&lt;/p&gt;
+
+&lt;p&gt;Under the power section we can see a few grounds, a 3.5V, a 5V, and a reset. If you know a little bit about
+basic electronic circuits this should be pretty straightforward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About &lt;code&gt;analogWrite()&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In your code, you can use a function called &lt;code&gt;analogWrite&lt;/code&gt;, which will simply output a given amount of
+voltage to the pin you specify. To use analogWrite, you specify an &lt;strong&gt;analog output pin&lt;/strong&gt;, meaning it has a &lt;code&gt;~&lt;/code&gt;
+next to it, and a value between 0 and 255 for the amount of output.&lt;/p&gt;
+
+&lt;h4&gt;analogWrite() Example&lt;/h4&gt;
+
+&lt;p&gt;Imagine there is an LED attached to pin 3.
+```
+// Put code inside the loop() function so that our program will keep running.
+void loop() {&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// Turn on the LED
+analogWrite(3, 255);
+
+// Wait 1 second (1000) milliseconds
+delay(1000);
+
+delay(1000);
+analogWrite(3, 0);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;}
+```
+This code will cause the LED to turn on and off every second.&lt;/p&gt;
+
+&lt;h4&gt;digitalWrite() Example&lt;/h4&gt;
+
+&lt;p&gt;You probably won&#39;t be using digitalWrite unsupervised for quite some time, because it generally
+requires knowledge of integrated circuits, but for your reference, you can use &lt;code&gt;digitalWrite()&lt;/code&gt; on
+any digital pin be writing&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;digitalWrite(pin_number, HIGH);
+
+// OR
+
+digitalWrite(pin_number, LOW);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;HIGH&lt;/code&gt; and &lt;code&gt;LOW&lt;/code&gt; are what we call &lt;a href=&quot;http://arduino.cc/en/Reference/Constants&quot;&gt;constants in Arduino&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Arduino Learning #1: setup() &amp; loop()</title>
+      <link>http://brianw.io/blog/2014/01/21/arduino-learning-number-1-setup-and-loop</link>
+      <pubDate>Tue, 21 Jan 2014 13:17:45 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/21/arduino-learning-number-1-setup-and-loop</guid>
+      <description>&lt;p&gt;In Arduino programming there are two important fundamentals, the setup() function and the loop() function.&lt;/p&gt;
+
+&lt;p&gt;A function in programming is just like a function in math. You put in a variable, such as &lt;code&gt;x&lt;/code&gt;,
+and you get a return value. In the case of &lt;code&gt;setup()&lt;/code&gt; and &lt;code&gt;loop()&lt;/code&gt;, the Arduino runs those functions as a way
+of letting the programmer (that&#39;s you) control what it does.&lt;/p&gt;
+
+&lt;h4&gt;Side note&lt;/h4&gt;
+
+&lt;p&gt;You can leave &quot;comments&quot; in code, which are just notes. Any line beginning with &lt;code&gt;//&lt;/code&gt;, or code in between &lt;code&gt;/* */&lt;/code&gt; is a comment. They have &lt;strong&gt;no effect&lt;/strong&gt; on the computer whatsoever,
+they are just for leaving messages in your code in the event that another programmer looks at what you wrote.
+&lt;a href=&quot;https://github.com&quot;&gt;This happens more often than you&#39;d think.&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// This is a comment
+
+/*
+ * This
+ * is a multiple line
+ * comment
+*/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &lt;code&gt;setup()&lt;/code&gt; function will contain the code that you only want to run once, at the beginning of the program’s life.&lt;/p&gt;
+
+&lt;h4&gt;Example&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;// Below, we must define the method setup() so that the Arduino knows what to do.
+void setup() {
+    int currentAge = 17; // Integer currentAge is now equal to 17
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &lt;code&gt;loop()&lt;/code&gt; method will contain code that will be run over and over again by the Arduino.
+The Arduino will go down every line of the loop method, evaluate each line, and repeat as
+long as the program is running. We can use the loop method to read inputs and send outputs in real time.&lt;/p&gt;
+
+&lt;h4&gt;Example&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;void loop() {
+
+    currentAge += 1; // Increase current age by 1
+
+    // Wait 60000 milliseconds before going on to the next line of code
+    delay(60000);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Analogies&lt;/h4&gt;
+
+&lt;p&gt;Here are 2 loosely “real world” concept examples of &lt;code&gt;setup()&lt;/code&gt; and &lt;code&gt;loop()&lt;/code&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;In the &lt;code&gt;setup()&lt;/code&gt; function of the iPhone, you will probably find the code
+that loads the background image, puts the apps on the homescreen, and does anything
+that is setting-related (setup). In the &lt;code&gt;loop()&lt;/code&gt; function, you will find the code that
+listens for touches, swipes, and redraws the graphics on the screen.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pretend you’re playing a video game for a second, the &lt;code&gt;loop&lt;/code&gt; method would be
+responsible for updating the position and orientation of the main character, and
+all of the other on-screen elements.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Now imagine you’re on Facebook. The setup method loads the page, and the initial
+content, while the loop method checks for new content and loads it into the page.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;The basic idea here is that setup runs once, and determines the initial conditions,
+whereas loop runs over and over again, and is responsible for handling and responding to new events.&lt;/p&gt;
+
+&lt;p&gt;This is the documentation for Arduino, it provides a complete reference of
+http://arduino.cc/en/Reference/HomePage&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea a Day #18: Monthly Subscription Marketplace</title>
+      <link>http://brianw.io/blog/2014/01/19/startup-idea-a-day-number-18-monthly-subscription-marketplace</link>
+      <pubDate>Sun, 19 Jan 2014 19:11:26 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/19/startup-idea-a-day-number-18-monthly-subscription-marketplace</guid>
+      <description>&lt;h4&gt;Monthly subscriptions are all the rage&lt;/h4&gt;
+
+&lt;p&gt;right now. Don&#39;t believe me? There&#39;s &lt;a href=&quot;https://www.stunnerofthemonth.com/&quot;&gt;Stunner of the Month&lt;/a&gt; (which I personally subscribe to; it&#39;s awesome),
+&lt;a href=&quot;http://www.birchbox.com/&quot;&gt;BirchBox&lt;/a&gt;, &lt;a href=&quot;https://tonx.org/&quot;&gt;Tonx Coffee&lt;/a&gt;, a zillion clubs for chocolate, and countless others. What would
+be really baller, is if someone made an eBay for these type of subscription services. There are a lot of independent
+artisans making great product that would kill for a stable monthly check.&lt;/p&gt;
+
+&lt;p&gt;Money is abundant in empowering small businesses (cough, cough, Etsy, eBay, Square, Stripe, UBER, Lyft, etc...)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;making a website for monthly subscriptions that has that same kind of small-business vibe = guaranteed crushing it&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #17: Online Learning Marketplace</title>
+      <link>http://brianw.io/blog/2014/01/19/startup-idea-every-day-number-17-online-learning-marketplace</link>
+      <pubDate>Sun, 19 Jan 2014 11:36:49 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/19/startup-idea-every-day-number-17-online-learning-marketplace</guid>
+      <description>&lt;p&gt;This is the 17th post in my series &lt;a href=&quot;http://brianw.io/blog/categories/startup-ideas/&quot;&gt;&quot;A new startup idea every day&quot;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are a ton of people making a lot of money selling their personal knowledge online, from eBooks to webinars,
+it&#39;s not hard to come across an &quot;expert&quot; selling some information. What if there was a company that allowed
+people to setup their own online education, like what Etsy does for homemade goods, except for webinars, chat rooms,
+screencasts, etc.&lt;/p&gt;
+
+&lt;p&gt;Why would this be better than what&#39;s already available? Well one reason it would be an improvement from the status quo
+is that you
+could integrate a review system, where users can give star based reviews to educators that will determine the quality
+of their class. Another improvement is that now, people know where to look when they want expert information and professional
+training.&lt;/p&gt;
+
+&lt;p&gt;Don&#39;t misconstrue the intention of the idea, &lt;strong&gt;this is only for people who are looking to buy/sell business
+education materials&lt;/strong&gt;. By and large, I believe education should be free, but finding qualified educators in
+the field of marketing, social media, and other business related fields can be very difficult, and it&#39;s
+never free.&lt;/p&gt;
+
+&lt;p&gt;RELATED: check out my friend&#39;s website, &lt;a href=&quot;http://aapltrader.com&quot;&gt;a social community for people who trade Apple stock, aapltrader.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #16: Offline Electronics Factsheet App</title>
+      <link>http://brianw.io/blog/2014/01/16/startup-idea-every-day-number-16-offline-electronics-factsheet</link>
+      <pubDate>Thu, 16 Jan 2014 22:58:16 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/16/startup-idea-every-day-number-16-offline-electronics-factsheet</guid>
+      <description>&lt;p&gt;This is the 16th post in my series &lt;a href=&quot;http://brianw.io/blog/categories/startup-ideas/&quot;&gt;&quot;A new startup idea every day&quot;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is more of an iOS App idea, but it&#39;s got a lot of potential because of how simple and in-demand it is.
+If you&#39;re like me, you&#39;ve dabbled in electronics, or maybe your proficient in building circuits and computers and what not.
+Regardless, chances are at some point you&#39;ve wished you had an app that would easily allow you to access
+all of the fact-sheets for a wide variety of electronic circuits and components.&lt;/p&gt;
+
+&lt;p&gt;What&#39;s really cool about this idea is that apps like this are super simple to build, all you have to do
+is automate the process of collecting and displaying the data, which is fortunately very simple.&lt;/p&gt;
+
+&lt;p&gt;Price point? You could easily sell an app that provides this service for $3/download, maybe more, plus a lite
+version. Also, as part of an expansion on this idea, it would be really cool to create an app that would allow
+you to build and test circuits using common electrical components.&lt;/p&gt;
+
+&lt;p&gt;An app that would allow you to simulate actual electrical components would be super awesome, because you
+could sell that for HUGE $$$. Imagine you approach a company that makes circuits professional, and you have
+software that can cut their prototyping time/money in half?&lt;/p&gt;
+
+&lt;p&gt;This idea has fundamental value because working with electrical circuits is only going to increase, building
+a startup in that space will definitely be capable of picking up money.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #15: Anywhere Webcam</title>
+      <link>http://brianw.io/blog/2014/01/15/startup-idea-every-day-number-15-anywhere-webcam</link>
+      <pubDate>Wed, 15 Jan 2014 23:26:20 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/15/startup-idea-every-day-number-15-anywhere-webcam</guid>
+      <description>&lt;p&gt;This is the 15th post in my series &lt;a href=&quot;http://brianw.io/blog/categories/startup-ideas/&quot;&gt;&quot;A new startup idea every day&quot;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I recently just bought all the supplies for a &lt;a href=&quot;http://pingbin.com/2012/12/raspberry-pi-web-cam-server-motion/&quot;&gt;raspberry pi webcam&lt;/a&gt;,
+and I thought about how cool it would be if you could monitor anything anywhere, for only $100-$200.&lt;/p&gt;
+
+&lt;p&gt;At that price point, you can easily get a small computer (raspberry pi), a wifi antenna capable of
+about a mile of reception, and a webcam. Startup idea #15 is to make a company that streamlines the process
+of setting up a webcam.&lt;/p&gt;
+
+&lt;p&gt;Uses?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Most comprehensive baby monitor ever! Having a website to monitor your kids is baller parenting.&lt;/li&gt;
+&lt;li&gt;Surf cams?&lt;/li&gt;
+&lt;li&gt;Security.&lt;/li&gt;
+&lt;li&gt;Catch raccoons in the act.&lt;/li&gt;
+&lt;li&gt;Get creative&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;I think this idea pretty much explains itself.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #14: Browser Compatibility Testing Platform</title>
+      <link>http://brianw.io/blog/2014/01/13/startup-idea-every-day-number-14-browser-compatibility-testing-platform</link>
+      <pubDate>Mon, 13 Jan 2014 20:55:30 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/13/startup-idea-every-day-number-14-browser-compatibility-testing-platform</guid>
+      <description>&lt;p&gt;This is the 14th post in my series &lt;a href=&quot;http://brianw.io/blog/categories/startup-ideas/&quot;&gt;&quot;A new startup idea every day&quot;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a developer, I&#39;m constantly building. I personally hate stopping production to do things such as write tests,
+do browser compatibility. How great would it be if there was a company that provided a browser testing &amp;amp; deploy-time
+testing service?&lt;/p&gt;
+
+&lt;p&gt;Imagine a website like NewRelic, where you could sign up, and add a piece of code to your site that would do the
+following&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Crawl your site and report errors every time the server is restarted.&lt;/li&gt;
+&lt;li&gt;Crawl your site using different user agents for browser compatibility&lt;/li&gt;
+&lt;li&gt;Generate analytic reports on availability across devices &amp;amp; response times&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Monetization of a product like this would be as simple as letting developers know it exists. Sites that aren&#39;t
+quite as useful as this are cropping up like gangbusters (New Relic, Honeybadger.io, Google Analyics, Clicky,
+and &lt;a href=&quot;http://www.inc.com/guides/12/2010/11-best-web-analytics-tools.html&quot;&gt;countless others&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;The hardest part of creating this Software as a Service would be getting the dev-power to replicate the exact
+behavior of the countless devices that you would need for generating the report. Also understanding the subtle
+nuances of each device&#39;s behavior, and staying current to the new devices that show up would prove challenging.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #13: iPhone Social Media Consolidator</title>
+      <link>http://brianw.io/blog/2014/01/13/startup-idea-every-day-number-13-iphone-social-media-consolidator</link>
+      <pubDate>Mon, 13 Jan 2014 17:03:02 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/13/startup-idea-every-day-number-13-iphone-social-media-consolidator</guid>
+      <description>&lt;p&gt;This is the thirteenth post in my series a startup idea every day.&lt;/p&gt;
+
+&lt;p&gt;One thing is almost certain, people are sick of social networks, because they all essentially do the
+exact same thing. You or someone you know uploads a piece of information to a website and it goes into a &quot;feed&quot;.
+The biggest problem is that on my iPhone, switching from Twitter to Instagram to Facebook can be kind of a pain.
+Plus, people don&#39;t want any more social apps or updates, pushes or texts. People want something that offers them
+true simplicity.&lt;/p&gt;
+
+&lt;p&gt;Why not create an app where you can connect your Facebook, Twitter, Instagram, and Foursquare account, and it
+will intelligently compile all of the feed items into one feed, for the ultra-efficient, lightweight social
+experience? The core idea is simple, allow users to spend less time checking each social network, and more time
+getting the updates on everything they want all at once.&lt;/p&gt;
+
+&lt;p&gt;How could you monetize this you might be asking? Well I&#39;ve thought of three ways.&lt;/p&gt;
+
+&lt;p&gt;Obviously you could have advertisements, not gonna waste any more time talking about that.&lt;/p&gt;
+
+&lt;p&gt;Beyond ads, you could sell it as a pay service. While it may sound far fetched, I believe that if the
+service worked well enough, there would be a lot of people willing to pay $5/month for the added
+convenience. Hell, &lt;a href=&quot;http://toggl.com&quot;&gt;Toggl&lt;/a&gt; charge $5/month for their glorified stopwatch, and it&#39;s well worth it.&lt;/p&gt;
+
+&lt;p&gt;Above all is the data. I know it may sound evil, it always does, but storing users&#39; data for analytic purposes
+is one way you could make $traight bank. It&#39;s the hardest path of monetization, but also probably the most
+lucrative. Think about it, you now know where someone has checked in, what they&#39;ve eaten (thanks to instagram),
+where they&#39;re going, and who they&#39;re going with. If you can&#39;t sell that person something you shouldn&#39;t be trying
+to sell anything to anyone.&lt;/p&gt;
+
+&lt;p&gt;The beauty of this idea is that it reduces time that a user spends with technology, which is always a big plus these
+days, as many people are so overwhelmed by the prospect of downloading a new app or joining a new site.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Build a brand, not an social network presence.</title>
+      <link>http://brianw.io/blog/2014/01/12/build-a-brand-not-a-social-network-presence</link>
+      <pubDate>Sun, 12 Jan 2014 17:40:34 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/12/build-a-brand-not-a-social-network-presence</guid>
+      <description>&lt;h4&gt;Stop asking for &quot;likes&quot; or &quot;follows&quot;,&lt;/h4&gt;
+
+&lt;p&gt;no one cares about &quot;retweets&quot;, and your brand is not, and never will be
+defined by your social network presence. &lt;strong&gt;Your brand is defined by your products you offer and the content you
+provide. This is the bottom line, period.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The above statement is going to put me in seriously hot water with a lot of people, and to be fair it was definitely
+an oversimplification of a more complex issue, what I was really trying to say was &lt;strong&gt;this is the internet, we want
+quantity over quality&lt;/strong&gt;. Again, that was kind of inflammatory, but what I&#39;m trying to say is that there is no reason
+to waste time nitpicking about the little stuff, because it will go completely unnoticed. From hereon, no more
+contentious statements, I&#39;m going to consolidate my thoughts into a list of &lt;strong&gt;the top 6 things you can do
+to improve you brand online.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Produce content regularly. Seriously, every day, make more content. This will tell google that your site is fresh.
+If you produce continually more content, google will know your site is growing. I cannot stress this enough,
+content content content!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Stop checking your google analytics/twitter/facebook page. You have the amount of traffic/followers/likes you have, no amount of page
+refreshing is going to change that. I promise.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use common sense by not buying likes, traffic, follows, views, or whatever metric your looking at.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Have an App on the App Store. Seriously this is huge. The reason that having an app is big is because if your
+having a conversation with someone about your project, and you have an app, they can view your project
+before the conversation ends, whereas with only a website, they have to remember to go online later.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use common SEO best practices. Don&#39;t go overkill with it, just do the basics. Add a site description, author,
+subject, and use the other relevant meta tags.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Make your page load quickly. This is another important feature in getting users. If your page load takes more than
+4 seconds, you&#39;ve just lost most of your audience.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;I hope this helped anyone interested in building an online brand. Good luck!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #12: Integrated Home Electronics</title>
+      <link>http://brianw.io/blog/2014/01/12/startup-idea-every-day-number-12-integrated-home-electronics</link>
+      <pubDate>Sun, 12 Jan 2014 16:42:38 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/12/startup-idea-every-day-number-12-integrated-home-electronics</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Why does Sonos crush it?&lt;/strong&gt; Because I can control the speakers in my house without getting up, I
+don&#39;t even have to stop what I&#39;m doing. Sonos adds a phenominal amount of convenience to the home, which is
+exactly what this startup idea is about. Sonos is great for speakers, but what my coffee maker, my refrigerator,
+or even my lights? Could I get a push notification when the water is running? How about a text if my stove is
+on too long? If you wanted a startup idea with exorbitantly high startup costs and huge potential return,
+you got it.&lt;/p&gt;
+
+&lt;p&gt;I&#39;ve had a sneaking suspicion that people are getting very sick of software, and that computer interfaces are becoming
+less and less desirable, while the practical, wearable, and tangible technology is growing rapidly (have you seen
+Jawbone, Fitbit, and Fitbug?). So let&#39;s assume that yes, people do want to control their blender with their smartphone,
+how badly would it suck to have to download an app for your blender, stove, oven, lighting, heating, cooling,
+speakers, cabinets, and water? The idea behind this company is to create a suite of home products that all run on one
+interface, for consistent user experience. The same way you can pick up any iPhone in the world and immediately
+know how it works.&lt;/p&gt;
+
+&lt;p&gt;The way to start a company like this? Create a smartphone app that has an SDK and API, so that when Keurig comes
+out with their new coffee maker, they can take an extra step in development to make it connectable to your app.
+This way you could avoid the costs of building an manufacturing all of these products yourself.&lt;/p&gt;
+
+&lt;p&gt;In short, integrating household electronics is going to the most baller move for mobile devices
+in this decade.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Welcome to "The dot-X Bubble"</title>
+      <link>http://brianw.io/blog/2014/01/12/welcome-to-the-dot-x-bubble</link>
+      <pubDate>Sun, 12 Jan 2014 10:16:10 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/12/welcome-to-the-dot-x-bubble</guid>
+      <description>&lt;p&gt;If you haven&#39;t noticed, people have been investing in &lt;a href=&quot;http://shots.me/&quot;&gt;really frivolous things&lt;/a&gt; lately. If you
+didn&#39;t click that link, I&#39;ll just tell you, it goes to Justin Bieber&#39;s social network &quot;Shots of Me&quot;. Essentially
+Instagram, but just for photos of yourself (better right?). For days on end, I could list the &quot;companies&quot; like this with
+no real product, whose entire existence hinges on the idea of the service being &quot;cool&quot;, but according to consumers is
+not worth paying for.&lt;/p&gt;
+
+&lt;p&gt;The proof is in the pudding, but if you need any more proof, SnapChat raised a 50 million dollar series-C round alone,
+&lt;a href=&quot;http://www.selfie.im/&quot;&gt;Selfie&lt;/a&gt; got at least half a million, and Shots Of Me has received at least a million from
+Bieber alone. &lt;a href=&quot;http://www.huffingtonpost.com/2012/09/21/your-startup-will-probably-fail_n_1904919.html&quot;&gt;Countless other startups have received a decent amount a change and then failed.&lt;/a&gt;
+The reason this failure rate is so high is because irresponsible investors are throwing money at things they don&#39;t
+understand, with the hopes of being Zuckerberg 2.0.&lt;/p&gt;
+
+&lt;p&gt;Why do I call it the dot-X bubble? Well&lt;/p&gt;
+
+&lt;ol type=&quot;a&quot;&gt;
+&lt;li&gt;It&#39;s a play on the early 2000&#39;s dot-com bubble&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://weblog.slamdot.com/2013/10/22/new-gtlds-what-they-are-what-they-mean-to-you/&quot;&gt;If you haven&#39;t heard, anyone can now register a top level domain (domain_name.brian, domain_name.my-new-tld, etc.)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;I guess what I&#39;m trying to say is the ramifications of the dot-X bubble are pretty simple, and as more former startups hit their IPO,
+the more inflated and devastating the dot-X bubble will become. Because we are in this era where anyone can deploy
+the next billion dollar company with a minimal amount of coding experience and a few dollars for cloud hosting,
+we are going to see even more unsubstantial companies abusing the original purpose of the internet and digital computing.&lt;/p&gt;
+
+&lt;p&gt;I know I sound like a straightup cynic, but when we look at what computers are being used for now versus what they
+are capable of, it feels like we&#39;re packing yellow-cake uranium into glowsticks for people to dance with
+at discoteks.&lt;/p&gt;
+
+&lt;p&gt;The core of this apple is that if there is a lot of money invested into &quot;social network limbo&quot;, investors will
+take the hardest hit when the s*** hits the fan, and it always does to some degree.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea A Day #11: Downtown Food Delivery</title>
+      <link>http://brianw.io/blog/2014/01/11/startup-idea-a-day-number-11-downtown-food-delivery</link>
+      <pubDate>Sat, 11 Jan 2014 20:09:30 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/11/startup-idea-a-day-number-11-downtown-food-delivery</guid>
+      <description>&lt;p&gt;Food rocks. If you know me, you know I love food. My eleventh startup idea is a food delivery service that works
+exclusively downtown. Combine the power of the internet with good old fashioned steel-frame fixie bikes and you&#39;ve
+got yourself the next startup 500 company.&lt;/p&gt;
+
+&lt;p&gt;The premise is simple, if you work downtown, you probably need food, and maybe your job isn&#39;t conducive to
+getting food when you need it. This applies especially to anyone who works in retail. All you have to do now is
+build a web app that allows people downtown to pick a restaurant and place an order and then hire an army of bike messengers
+to take the orders to their destination, and charge something like +10% for delivery.&lt;/p&gt;
+
+&lt;p&gt;The pros of this idea are that it could easily catch on quickly, and it doesn&#39;t hinge on having millions of users
+to be profitable. This is always a plus, because the idea of viral is a little far-fetched.&lt;/p&gt;
+
+&lt;p&gt;The obvious con of this idea is that, unless you delivery the food yourself, the startup cost of hiring someone
+to do it may be a little more overhead than many entrepreneurs are willing to risk.&lt;/p&gt;
+
+&lt;p&gt;Sorry for the short post, I&#39;m in a hurry to be somewhere, I&#39;ll try and expand it later.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #10:Gym Friend Finder</title>
+      <link>http://brianw.io/blog/2014/01/10/startup-idea-every-day-number-10-gym-friend-finder</link>
+      <pubDate>Fri, 10 Jan 2014 17:11:51 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/10/startup-idea-every-day-number-10-gym-friend-finder</guid>
+      <description>&lt;p&gt;This is the tenth post in my series &lt;a href=&quot;http://localhost:4000/blog/categories/startup-ideas/&quot;&gt;&quot;A new startup idea every day&quot;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Going to the gym blows...&lt;/h4&gt;
+
+&lt;p&gt;I better not say, that I might get fired. (I work at a &lt;a href=&quot;http://achievemint.com&quot;&gt;health-based startup&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;But seriously, going to the gym is intimidating, and once your there it can be hard to push yourself.
+Sure you could hire a personal trainer, and there are now a million apps that will allow you to chat with one,
+but what if you want someone you know to train with you? Well the goal of this idea is to be able to enter in
+your height and weight, as well as your training goals, and you would be paired up with someone in your network
+who has also entered in similar stats, all the while keeping user data confidential.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This idea rocks, because training with someone in significantly better or worse shape sucks.&lt;/strong&gt; Either you feel
+like you can&#39;t push yourself to your desired limit, or you get the sense that your holding back your partner.&lt;/p&gt;
+
+&lt;p&gt;Getting money from the fitness industry easy. Selling fitness products within an established user base is like
+selling coffee in Seattle. As long as the product was free, and people felt like they could use it without feeling
+insecure or threatened, you could definitely build a user base.&lt;/p&gt;
+
+&lt;p&gt;On top of the monetization mentioned, you could also become a promoter for fitness events, personal trainers, and
+even gyms. There is huge money in the health space, you barely even have to look for it.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #9: Learning Network Syndicate</title>
+      <link>http://brianw.io/blog/2014/01/09/startup-idea-every-day-number-9-learning-network-syndicate</link>
+      <pubDate>Thu, 09 Jan 2014 21:50:51 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/09/startup-idea-every-day-number-9-learning-network-syndicate</guid>
+      <description>&lt;p&gt;This is the ninth post in my series &lt;a href=&quot;http://localhost:4000/blog/categories/startup-ideas/&quot;&gt;&quot;A new startup idea every day&quot;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One thing I really like in particular about the internet is that it has become possible for anyone to learn
+literally anything in a fraction of the time it would have taken 20 years ago, and now there are all of these
+cool networks that teach people things such as &lt;a href=&quot;http://lumosity.com&quot;&gt;Lumosity&lt;/a&gt;, &lt;a href=&quot;http://ted.com&quot;&gt;TED&lt;/a&gt;,
+&lt;a href=&quot;http://khanacademy&quot;&gt;Khan Academy&lt;/a&gt;, &lt;a href=&quot;http://codeschool.com&quot;&gt;Code School&lt;/a&gt;, &lt;a href=&quot;http://codecademy.com&quot;&gt;Code Academy&lt;/a&gt;, and many many more.
+What I think would be great is if there was a startup that aggregates all of the information on every site, designed
+to be the definitive collection of resources for any given topic.&lt;/p&gt;
+
+&lt;p&gt;For example, lets say you want a site that teaches you how to code, and how to cook. This site which I&#39;m calling
+Edycate, would be the hub where you could track what resources you&#39;ve used, what resources you&#39;ve found, liked, didn&#39;t like
+etc. What&#39;s particularly great about this idea is that it takes very little to get up and running. All you would need
+is a website with a profile-base, maybe a forum engine, and some sort of CDN (Content Delivery Network).&lt;/p&gt;
+
+&lt;p&gt;Monetization for Edycate would be tricky, but no doubt doable. Many of the paid services I mentioned such as Code School
+have referral programs, additionally, you could monetize by creating your own referral network. Obviously you could
+also display ads, but I always try and think of regular HTML display ads as a &quot;last resort&quot; for making money on the
+internet.&lt;/p&gt;
+
+&lt;p&gt;Another great aspect of this idea is that it goes back to the concept of the &lt;a href=&quot;http://brianw.io/blog/2014/01/05/startup-idea-every-day-number-5-social-donation-leaderboard/&quot;&gt;new, sexy, philanthropic for-profit startup&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #8: Track Meteors with Meteor JS.</title>
+      <link>http://brianw.io/blog/2014/01/08/startup-idea-every-day-number-8-track-meteors-with-meteor-js</link>
+      <pubDate>Wed, 08 Jan 2014 22:47:07 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/08/startup-idea-every-day-number-8-track-meteors-with-meteor-js</guid>
+      <description>&lt;p&gt;This is my 8th post in my series &lt;a href=&quot;http://localhost:4000/blog/categories/startup-ideas/&quot;&gt;&quot;A new startup idea every day&quot;&lt;/a&gt;,
+and if you couldn&#39;t tell by the substance of the title, I am exhausting every bit of creativity. I feel like
+I&#39;m at the heartbreak hill of ingenuity...&lt;/p&gt;
+
+&lt;p&gt;But seriously, I&#39;ve been wanting to write about &lt;a href=&quot;https://www.meteor.com/&quot;&gt;Meteor JS&lt;/a&gt; for a while, which is
+&lt;a href=&quot;https://www.meteor.com/&quot;&gt;this awesome web framework&lt;/a&gt; that allows for super cool real-time serving of data
+and direct client-database interaction. Awesome right? I was brainstorming ways to use the features provided, and
+I thought, what about a startup that tracks hurricanes, tornadoes, disease outbreaks, meteors, asteroids, volcanoes, and
+other natural disasters in real time, and then alert subscribers about potential armageddon scenarios.&lt;/p&gt;
+
+&lt;p&gt;Monetization? Simple. Charge a monthly fee to receive premium access and real-time alerts about the latest
+and greatest in brewing apocalypse scenarios. Additionally, as an upsell, you could offer an online store for
+things such as guns &amp;amp; ammo, canned food, small aircraft, and even boats.&lt;/p&gt;
+
+&lt;p&gt;I know it may seem frivolous, but people have definitely sold far more impotent products for a lot of money. (A certain
+time-constrained photo sharing service comes to mind).&lt;/p&gt;
+
+&lt;p&gt;If you are interested in checking out a demo of the &lt;a href=&quot;https://www.meteor.com/&quot;&gt;web framework meteor&lt;/a&gt;, you can
+visit my &lt;a href=&quot;http://blowitup.meteor.com/&quot;&gt;sample meteor site&lt;/a&gt;. I plan on writing and/or recording a whole tutorial soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #7: Local Brand Investing Hub</title>
+      <link>http://brianw.io/blog/2014/01/07/startup-idea-every-day-number-7-local-brand-investing-hub</link>
+      <pubDate>Tue, 07 Jan 2014 13:22:34 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/07/startup-idea-every-day-number-7-local-brand-investing-hub</guid>
+      <description>&lt;p&gt;This is the seventh post in my series, &quot;Startup Idea Every Day&quot;, where I offer a new idea for a startup every day, for 31 days (January 2014).&lt;/p&gt;
+
+&lt;p&gt;This is an idea that was inspired by a combination of sites such as &lt;a href=&quot;http://kickstarter.com&quot;&gt;KickStarter&lt;/a&gt;, &lt;a href=&quot;http://flippa.com&quot;&gt;Flippa&lt;/a&gt;
+and &lt;a href=&quot;http://angel.co&quot;&gt;AngelList&lt;/a&gt;, as well as my local go-to coffee shops. I was sitting in a locally owned coffee shop in Santa Barbara,
+where I had just paid $2.65 for an americano, and I thought to myself&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&quot;Wow, the coffee tastes incredible, the people working
+here care about the customers, the employees take pride in their work, the atmosphere is fantastic, and I didn&#39;t get
+raked over the coals for what otherwise would have essentially been a milkshake.&quot;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;At this point, I was imagining how incredibly well a company like this could do if they had the resources to open up two more storefronts.
+This is when I realized, if I had the money and the free time, I would invest heavily in this (local) brand, which is why
+my seventh startup idea this year is a investment website that is geared towards local brands. The goal is to promote
+the dream of small-business ownership, retain local cultural influences, and increase the quality of goods and
+services.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why would people want to invest in local brands?&lt;/strong&gt; There are a lot of great reasons to invest in small, local companies.
+For one, local businesses offer a better connection to the investment. Getting to invest in a small business that you understand and
+maybe already have a relationship with is safer because you have a better judge of how the ROI will play out, and you have much, &lt;strong&gt;&lt;em&gt;much&lt;/em&gt;&lt;/strong&gt; more influence on
+the direction of the company, but it would be safer than investing in a startup, which as we know have
+incredibly high failure rates :(.&lt;/p&gt;
+
+&lt;p&gt;The greatest challenge to overcome here would be to distinguish yourself from the million crowd-funding, micro-loan,
+get-money-get-paid type of sites that already exist. Building a brand that defines itself differently is easily in the
+top 5 challenges facing most startups.&lt;/p&gt;
+
+&lt;p&gt;Of all of the ideas that I&#39;ve posted so far, this is one that I really hope to see come into fruition in the next
+couple years. There are a huge number of small businesses that have a great company culture, a great product, and with a
+little money and guidance could be turned into serious moneymakers, without compromising the quality of the product or
+the integrity of the company.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #6: Social Media Intelligence</title>
+      <link>http://brianw.io/blog/2014/01/06/startup-idea-every-day-number-6-social-media-intelligence</link>
+      <pubDate>Mon, 06 Jan 2014 09:13:23 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/06/startup-idea-every-day-number-6-social-media-intelligence</guid>
+      <description>&lt;p&gt;This is the sixth post in my series, &quot;Startup Idea Every Day&quot;, where I offer a new idea for a startup every day, for 31 days (January 2014).
+On a side note, this is getting exhausting. I really hope this stunt drives traffic.&lt;/p&gt;
+
+&lt;p&gt;Social media is the driving force behind &quot;big data&quot;, a term I&#39;m not a fan of, but more on that later.
+What always drives me crazy is that social networks such as Twitter, Facebook, and G+ rely almost solely on advertising to make money,
+which is absurd because they have some of the most valuable assets under their nose, and it seems like they don&#39;t even know it.
+I&#39;m proposing an idea for a company that can search social networks and identify the presence of a brand, idea, or movement
+within a given geography, using social media as the worlds biggest automatic survey, not the worlds most over-saturated
+ad network.&lt;/p&gt;
+
+&lt;p&gt;Using an API, it would be possible to hypothetically ask all of Facebook a question, such as &quot;Coke vs. Pepsi?&quot;, and then
+map the answers from hundreds of thousands of users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Well that&#39;s really neat, but who would buy that product?&lt;/strong&gt; The product, which i&#39;m calling GeoSocial, could be sold to
+medium to large size companies that are expanding, for the sake of identifying new markets and correcting bad branding. Another
+possible avenue of sale is to political campaigns, which could use social networks to determine which states, cities,
+or counties would be an optimal use of their time.&lt;/p&gt;
+
+&lt;p&gt;What I really like about the idea is that it puts new life into the idea of the social network. Social
+networks are more than just a way of interacting, they are a way of &lt;strong&gt;cataloguing human interaction&lt;/strong&gt;. Social
+networks are here to stay, I just want to put them to good use.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Codestamp: The roadmap to creating graceful deprecation of informative articles.</title>
+      <link>http://brianw.io/blog/2014/01/05/codestamp-the-roadmap-to-creating-graceful-deprecation-of-informative-articles</link>
+      <pubDate>Sun, 05 Jan 2014 17:42:16 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/05/codestamp-the-roadmap-to-creating-graceful-deprecation-of-informative-articles</guid>
+      <description>&lt;p&gt;Being a programmer for a little while now, I&#39;ve noticed that there is a fairly prevalent problem in the realm
+of code-blogs and documentation. The problem is that sometimes the code referenced in an article, on a website, or
+sometimes in documentation (especially for smaller projects) lacks information regarding whether or not the information
+is current. This is why I propose the &quot;codestamp&quot;, like a timestamp, except for a software project stack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How would a codestamp work?&lt;/strong&gt; The idea behind codestamp is to add an HTML snippet to any code-related information
+that explains the following&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A list of relevant software and hardware (languages, frameworks, browsers, devices, and version numbers)&lt;/li&gt;
+&lt;li&gt;The date the article was written&lt;/li&gt;
+&lt;li&gt;A link to the official project if applicable&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The three pieces of information could save developers like myself hours of fruitless labor caused by reading deprecated
+information. Additionally, there is room for future development of this idea by creating a centralized database of code
+repositories and compatibility, and then codestamps could interact with an API to pull the relevant information. For
+example, a codestamp could list a framework, versions, and maybe even methods for a certain framework, and then the
+codestamp could use the API to determine the level of compatibility and deprecation.&lt;/p&gt;
+
+&lt;p&gt;I know at this point in the article your probably dying to see what my quasi-utopian concept of a codestamp would look
+like. So here it is, codestamp v1, technology used in this article:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;date: Jan 5th, 2014
+user_agents: [
+    &quot;Google Chrome&quot;,
+    &quot;MacBook Air&quot;,
+    &quot;OS X Lion&quot;
+]
+
+frameworks: [
+    &quot;Ruby 2.0.0&quot;,
+    &quot;Octopress 2.0&quot;,
+    &quot;Twitter Bootstrap 2.3.2&quot;
+]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ideally this would be in some kind of drop down menu, but I&#39;m writing this article using &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;.markdown&lt;/a&gt;
+format, so my ability to customize is limited.&lt;/p&gt;
+
+&lt;p&gt;The point that I&#39;m trying to drive home with this article is that because technology changes so quickly, it is
+important to be responsible when writing about code, especially high level frameworks that change on a day-to-day basis.
+Codestamping starts with us, the developers. If we can come up with an equitable system of tracking tech articles,
+this could even become part of the W3C spec, and actually make a difference in disseminating code-based knowledge.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #5: Social Donation Leaderboard.</title>
+      <link>http://brianw.io/blog/2014/01/05/startup-idea-every-day-number-5-social-donation-leaderboard</link>
+      <pubDate>Sun, 05 Jan 2014 11:02:10 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/05/startup-idea-every-day-number-5-social-donation-leaderboard</guid>
+      <description>&lt;p&gt;This is the fifth post in my series, &quot;Startup Idea Every Day&quot;, where I offer a new idea for a startup every day, for 31 days (January 2014).&lt;/p&gt;
+
+&lt;h3&gt;An app for accepting donations, with a leaderboard.&lt;/h3&gt;
+
+&lt;h4&gt;Using competitive nature to increase philanthropy and further social good.&lt;/h4&gt;
+
+&lt;p&gt;This is kind of a strange idea, but I was brainstorming startup ideas and flipping through the radio, when I heard a
+televangelist finishing his &quot;send your money now&quot; upsell, and I thought, what if charitable organizations, religious groups
+in particular, had an app where users could donate money, and after their money was donated they would be put on a
+leaderboard, ranking people by how much they&#39;ve donated.&lt;/p&gt;
+
+&lt;p&gt;The idea passed through my brain, and the value of the service seemed to increase the more I thought about it.
+Monetization would be a synch, and building a user base wouldn&#39;t be terribly difficult. The only negative
+factor I could think of was that some people may find it unethical to turn philanthropy into a competition
+of vanity, so selling the idea could certainly prove to be an uphill battle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who would the target audience be?&lt;/strong&gt; The &quot;all means necessary&quot; type of charities would be a great first step, because this idea
+really works for the organizations who will go to extremes to further their cause, such as the charity who ran
+the incredibly sad, touchy-feely, Sarah McLachlan commercials for the sake of guilting people into donating. The animal lovers,
+hyper-environmentalists, and over-the-top religious groups seem to fit the bill.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why is this such a good idea?&lt;/strong&gt; People are naturally competitive, it&#39;s how we are. When users have the ability
+to see who has donated to a cause, they will almost certainly be likely to give more for the sake of increasing their
+perceived reputation in the community.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Most difficult obstacle?&lt;/strong&gt; Creating an image of social change and do-goodery. Defining a brand as a better-world company
+takes a lot of skill in the marketing department, especially for a tech-based startup. On a side note, a friend of mine
+runs a firm in Santa Barbara called &lt;a href=&quot;http://loacom.com/&quot;&gt;LoaCom&lt;/a&gt; that helps companies and non-profits boost their &quot;better world strategies&quot;&lt;/p&gt;
+
+&lt;p&gt;The bottom line with this idea is that there is big money in non-profits. Building a brand that boosts charitable donation
+is a great idea in my opinion because unlike many for-profit companies, there is big opportunity for social support. Plus,
+when it comes to startups, philanthropy angles are totally in style right now.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>What It Takes to Work at a Startup</title>
+      <link>http://brianw.io/blog/2014/01/04/what-it-takes-to-work-at-a-startup</link>
+      <pubDate>Sat, 04 Jan 2014 12:11:12 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/04/what-it-takes-to-work-at-a-startup</guid>
+      <description>&lt;h3&gt;The comprehensive guide to navigating an intimate workplace.&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Working at a startup is different.&lt;/strong&gt; There are fewer people, more things to do, less time to d*** around,
+and most notably, a significantly more intimate workplace. There are a lot of myths about working at a startup; people
+will tell you that startups are easier, there&#39;s less responsibility, and that there exists a special &quot;culture&quot; that brings
+with it a new philosophy about running a company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Some&lt;/strong&gt; of this &lt;strong&gt;is true&lt;/strong&gt;, &lt;strong&gt;some&lt;/strong&gt; of it &lt;strong&gt;is a flagrant lie&lt;/strong&gt;, and almost all
+of it is perceived with &lt;strong&gt;wild misconception&lt;/strong&gt;. The truth is that startups are far and away more difficult to work for, and
+that while there are &lt;strong&gt;less rules and more freedom&lt;/strong&gt;, and at the end of the day, more is expected of you in exchange for this
+freedom. If you can&#39;t hang with that trade-off, startups aren&#39;t for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If startups are so hard, why don&#39;t I work for a big corporation?&lt;/strong&gt; Because big corporations are where happiness, freedom
+of expression, and creativity go to die. I&#39;m &lt;strong&gt;not bitter about working for a startup&lt;/strong&gt;, in fact, at this point in my life, &lt;strong&gt;I
+wouldn&#39;t trade it for any other job in the world&lt;/strong&gt;, but it&#39;s important to note that if you want to work at a startup, you
+have to be willing to challenge yourself to do better, for very little short-term return.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Being part of a startup is more intimate.&lt;/strong&gt; The workplace is smaller, people make eye contact around the office,
+and you connect with your bosses and coworkers more personally. You are forced to communicate in a startup, whereas in a
+bigger company you could get away with working a lot less and going completely unnoticed. The margin for error with a startup
+is smaller, and not doing your fair share of work is unacceptable. If you make these types of mistakes in a startup you will end up
+letting down yourself, and the people who you have inadvertently built a personal connection with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Again, I really do enjoy working at a startup.&lt;/strong&gt; I merely think it&#39;s important for people to realize that a startup is not all
+fun and games. If you run a startup, work at a startup, or want to start a startup, keep in mind that it&#39;s most of the time it&#39;s an uphill
+battle. If ambition and masochism aren&#39;t part of your core values, startups may not be for you.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #4: 3D Printing and Copy Shop</title>
+      <link>http://brianw.io/blog/2014/01/04/startup-idea-every-day-number-4-3d-printing-and-copy-shop</link>
+      <pubDate>Sat, 04 Jan 2014 11:03:51 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/04/startup-idea-every-day-number-4-3d-printing-and-copy-shop</guid>
+      <description>&lt;p&gt;This is the fourth post in my series, &quot;Startup Idea Every Day&quot;, where I offer a new idea for a startup every day, for 31 days (January 2014).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/FedEx_Office&quot;&gt;Kinko&#39;s&lt;/a&gt; was founded in 1970 by a guy named &lt;a href=&quot;http://en.wikipedia.org/wiki/Paul_Orfalea&quot;&gt;Paul Orfalea&lt;/a&gt;.
+Orfalea started the business in a small office he rented for $100/month in Isla Vista, near UCSB.
+In 2004, Kinko&#39;s was bought by FedEx for $2.4 Billion. At the time, copying was relatively new, and most consumers did
+not have the money to create quality copies at home. Today, 3D printing remains very much in the same space. Startup idea number
+4 is essentially Kinko&#39;s for 3D printing.&lt;/p&gt;
+
+&lt;p&gt;The first thing your probably asking is, how much of a need is there for 3D printing, and how could a company
+like this be useful enough to the average consumer to turn a profit? I&#39;ve thought of a number of different ways this idea
+could potentially be monetized.&lt;/p&gt;
+
+&lt;p&gt;The first idea I thought of was to create a place where you could get 3D printed souvenirs, kind of like a hyper-modern
+flattened penny. If you really wanted to take this a step further, you could even offer customizable souvenirs, such as names,
+faces, or even add a third dimension to a photo.&lt;/p&gt;
+
+&lt;p&gt;The second option for monetizing would be to make 3D modeling easy enough for almost anyone to accomplish. A lot of
+people have really good ideas about simple devices that could make their lives easier. If those people could be given
+the tools to prototype their product, we might get a lot of really innovative new products to help us rethink simple tasks.&lt;/p&gt;
+
+&lt;p&gt;Monetizing option number three would be to add a design-firm element to the store, where aspiring engineers and inventors
+could bring in an idea and you would build a prototype for them in exchange for royalties on the patent.&lt;/p&gt;
+
+&lt;p&gt;The last option I came up with was to have user friendly 3D scanners, and different blocks to use with the scanners, so that
+you could make your own completely customizable model using different shapes, letters, numbers, and pre-fabricated models.
+All you would have to do is arrange the blocks in the shape that you want, scan, and print.&lt;/p&gt;
+
+&lt;p&gt;I really like this idea because it brings technology to life, in the sense that, currently, 3D printing is hardly more than a weekend hobby
+for engineering students, and a rapid prototyping method for large corporations and wealthy design firms, but it has
+the potential to be so much more. Bringing 3D printing to a process that has the user experience necessary for mass consumption
+is not going to be easy, but it will undoubtedly be lucrative.&lt;/p&gt;
+
+&lt;p&gt;On a side note, there is also a really cool company doing something very similar in my hometown (Santa Barbara), called the &lt;a href=&quot;http://sbhackerspace.com/&quot;&gt;SB Hacker Space&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #3: A Career Certification Company</title>
+      <link>http://brianw.io/blog/2014/01/03/startup-idea-every-day-number-3-a-career-certification-company</link>
+      <pubDate>Fri, 03 Jan 2014 18:12:30 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/03/startup-idea-every-day-number-3-a-career-certification-company</guid>
+      <description>&lt;p&gt;This is the third post in my series, &quot;Startup Idea Every Day&quot;, where I offer a new idea for a startup every day, for 31 days (January 2014).&lt;/p&gt;
+
+&lt;p&gt;A problem that a lot of companies have is that they don&#39;t really know if they&#39;re hiring qualified technical professionals, and a big
+problem that technical professionals have is that often times their application is stacked up against amateur hour.
+Doing the online tutorial does not count as professional qualification in Ruby on Rails, Node.js, or any other type of technical field.
+I think there should be a company, or organization, that offers certification exams for all types of technical professionals,
+much in the same way that &lt;a href=&quot;http://www.solidworks.com/&quot;&gt;SolidWorks&lt;/a&gt; has a certification program for it&#39;s users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How would this make money?&lt;/strong&gt; Well I don&#39;t believe in forcing people to spend money to make an honest living, so I think
+that the certification should be offered for free, and the companies that are hiring people in a certain field of
+certification can pay to contact them. Additionally the site could offer features to train an existing team of employees.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hardest battle?&lt;/strong&gt; Here I see three key challenges&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Getting an industry to agree on a standard for certifying people to do a job is going to be really tricky.&lt;/li&gt;
+&lt;li&gt;Building the trust of the recruiters that would be using the exam as a benchmark for their employment process.&lt;/li&gt;
+&lt;li&gt;Preventing people from cheating.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Would this make the world better?&lt;/strong&gt; Yes. When it comes to starting a company, I think people should also focus
+on actually making a positive change, not just grubbing money. Creating a standard for certification would improve
+the quality of services performed, and would offer a more clear path to aspiring professionals.&lt;/p&gt;
+
+&lt;p&gt;As always, the startup ideas published in this series are completely free for use by anyone who wants to act on them,
+without any legal limitation.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Web Page Backgrounds Are Supposed To Be Ugly</title>
+      <link>http://brianw.io/blog/2014/01/02/web-page-backgrounds-are-supposed-to-be-ugly</link>
+      <pubDate>Thu, 02 Jan 2014 22:06:33 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/02/web-page-backgrounds-are-supposed-to-be-ugly</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ok, maybe not.&lt;/strong&gt; Before reading this, note that I&#39;m really not a designer. This is just a post about
+a book I read, and a thing I learned. And it&#39;s probably wrong. &lt;strong&gt;All of it is probably wrong.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After reading
+&lt;a href=&quot;http://www.amazon.com/Fresher-Styles-Web-Designers-Underground/dp/0321562690&quot;&gt;&quot;Fresher Styles for Web Designers: More Eye Candy from the Underground&quot;&lt;/a&gt;
+by Curt Cloninger, I learned that web page backgrounds are, most of the time, supposed to draw attention away from themselves,
+and into the content. Cloninger actually refers to background styles as &quot;background killers&quot;, because the goal is literally to
+take void space, and remove it from the site, draw attention away from it, pretend it isn&#39;t there, and/or put it in a special dimension
+where users won&#39;t even know it exists.&lt;/p&gt;
+
+&lt;p&gt;At this point you may be thinking that I&#39;m just stating the obvious, so hopefully you and I can share a moment here:&lt;/p&gt;
+
+&lt;p&gt;Do you ever recall designing a web page with a minimal amount of content and a plain color background,
+looking at your work and thinking about how horrible it looked? I certainly can, and it&#39;s because I didn&#39;t realize that
+to make a nicely laid out page, you often need two dynamic backgrounds styles, not one flat one.&lt;/p&gt;
+
+&lt;p&gt;Having two backgrounds is a subtle thing, but I promise you that many of the sites you look at will use two background styles.
+One background for the actual browser viewport itself, and one background style for the content.
+With the exception of the sites that are chock-full of content, designs will often employ two backgrounds to drive the valuable information to the eye of the user.&lt;/p&gt;
+
+&lt;p&gt;This makes sense because you usually don&#39;t want your body copy/content to sit directly on top of the browser
+viewport background, especially if you have a gradient background, a heavy pattern, or an image. Using two background styles
+in this way directs your users&#39; eye to the content of the page, not the empty space around it. It then becomes incredibly easy
+to determine what part of the page is valuable and what part of the page is empty.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Startup Idea Every Day #2: Personal Errand Drones.</title>
+      <link>http://brianw.io/blog/2014/01/02/startup-idea-every-day-number-two-rent-a-drone</link>
+      <pubDate>Thu, 02 Jan 2014 09:56:00 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/02/startup-idea-every-day-number-two-rent-a-drone</guid>
+      <description>&lt;p&gt;This the second post in the series &lt;a href=&quot;http://localhost:4000/blog/categories/idea-a-day/&quot;&gt;&quot;Startup Idea Every Day&quot;&lt;/a&gt;,
+where I will post a new startup idea for every day of January 2014, as part of my new years resolution to read and write more.&lt;/p&gt;
+
+&lt;h3&gt;Idea #2&lt;/h3&gt;
+
+&lt;p&gt;Recently there&#39;s been a ton of buzz about the prospect of Amazon using drones for the last few miles of
+the delivery process. Why should Amazon be the only company that has access to an idea this awesome?&lt;/p&gt;
+
+&lt;p&gt;I believe there should be a startup that manufactures and sells small aerial drones to consumers, capable of
+delivering a small payload (maybe 500 grams?) with the range to travel within a medium-sized city.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are the pros?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Reduce greenhouse-gas emission&lt;/li&gt;
+&lt;li&gt;Reduce traffic&lt;/li&gt;
+&lt;li&gt;Increase small business owner&#39;s ability to compete with e-commerce&lt;/li&gt;
+&lt;li&gt;Decrease money spent on shipping&lt;/li&gt;
+&lt;li&gt;Decrease transit time wasted&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Who would buy a personal use drone?&lt;/strong&gt; There were to ways I had envisioned the sale of errand drones.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Sell them to individual consumers &amp;amp; businesses.&lt;/li&gt;
+&lt;li&gt;Create a rental service, similar to that of a bike messenger.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;strong&gt;What is the biggest challenge?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Getting people to become accustomed to the idea of using robots for assistance in dat-to-day life is definitely going
+to be a huge challenge for the future of tech companies. Creating a system in which a drone can deliver a parcel safely
+and accurately enough to be considered reliable for day-to-day use will definitely have a few road blocks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why do I think this is such a great idea?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My main reasons for thinking this is a great startup idea are&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;It doesn&#39;t use the phrase &quot;social network&quot;&lt;/li&gt;
+&lt;li&gt;It could truly change the way we view infrastructure and air travel&lt;/li&gt;
+&lt;li&gt;The result would improve the quality of life, and benefit the environment, which is an incredible combination.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;but besides the obvious reasons, I also like the idea because personal robots are truly at the edge of technology right now,
+and although they feel infeasible now, &lt;a href=&quot;http://en.wikipedia.org/wiki/Moore&#39;s_law&quot;&gt;Moore&#39;s Law&lt;/a&gt; suggests that the
+&quot;next big thing&quot; will always feel impossible today. I have a distinct feeling that the leaders of the 2010s and 2020s are going to be
+the inventors and proprietors of integrated robotics.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>A Startup Idea Every Day #1.</title>
+      <link>http://brianw.io/blog/2014/01/01/a-startup-idea-every-day-number-one</link>
+      <pubDate>Wed, 01 Jan 2014 18:40:19 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2014/01/01/a-startup-idea-every-day-number-one</guid>
+      <description>&lt;h3&gt;Yes, you heard me.&lt;/h3&gt;
+
+&lt;p&gt;Going into 2014, I decided I was going to read more, write more, and watch less. So for january of 2014, I&#39;m going to give away a brilliant startup idea every day, for 31 days.&lt;/p&gt;
+
+&lt;p&gt;Part of the reason I decided to do this was that I keep comping up with ideas that I would really like to see set into motion,
+but I am already way to bogged down with my current projects. For me, this is a creative exercise that
+involves me pushing my ability to think of new ways we can use technology. Enough talking.&lt;/p&gt;
+
+&lt;h3&gt;Idea #1&lt;/h3&gt;
+
+&lt;h4&gt;An e-commerce site designed for developers.&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;How would this work?&lt;/strong&gt; I&#39;m a developer, I&#39;ve got quite a few websites, and I would like to be able to easily monetize traffic,
+but I don&#39;t want to have to claw at revenue from AdSense or Amazon or any other affiliate platform. I would like to be able to
+display a product on my website, and when users click on it they would be taken to a purchasing page. Once a purchase is made,
+I would get whatever the difference was between the price I sold the product at, and the price the owner of the product wants.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who actually sells the product?&lt;/strong&gt; Think of all the people who sell items on eBay, Amazon, or Etsy. They could list their product on
+this website, with a photo, description, etc., and than any developer who was interested in reselling it could put the product on
+their website at a markup that the developer determines.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How much room for growth is there with this idea?&lt;/strong&gt; Tons. The way I&#39;ve envisioned it, on one side of the site, there would be the
+merchants selling the products. The list as many items as they would like to sell. On the other side, there are the developers.
+Developers would have access to a &lt;strong&gt;robust API&lt;/strong&gt; that would allow them to build &lt;strong&gt;an entire online store, without ever seeing
+merchandise, or printing a shipping label.&lt;/strong&gt; The API could even include the ability to pay for an entire shopping cart full of items.
+There are a lot of possibilities with this startup idea, what are you waiting for, go do it!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Testing Code: 3 reasons why you should do what I once thought was pointless.</title>
+      <link>http://brianw.io/blog/2013/12/26/testing-code-why-you-should-do-what-i-once-thought-was-pointless</link>
+      <pubDate>Thu, 26 Dec 2013 21:58:11 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2013/12/26/testing-code-why-you-should-do-what-i-once-thought-was-pointless</guid>
+      <description>&lt;p&gt;I was once a very naive programmer. I thought that testing code was for people who wrote bad code,
+and that tests were dumb because the time spent writing them was time that could be spent building new features,
+thinking up ideas, doing browser compatibility, etc., but then I went to work on a project that actually has users.
+I can now say first hand that two things are certain:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt; Developing on a codebase you didn&#39;t build yourself, for a platform with
+over 100,000 users, is absolutely terrifying.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt; If you crash a server by releasing bugs and you don&#39;t have tests, you will have explaining to do.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Tests are really cool for a number of reasons. First off, you begin to &lt;strong&gt;know your code&lt;/strong&gt;. When you have to think about
+how to write a test case that is going to accurately measure the success of user interaction, you will begin to think
+about your code in ways that you didn&#39;t know were possible. You will have a broader understanding of how the system works,
+especially if your working on a system you didn&#39;t build.&lt;/p&gt;
+
+&lt;p&gt;The second reason I think you should test code, is that you (almost guaranteed) will find bugs you didn&#39;t know existed.
+There are only so many times you can click through your own website before you get tunnel vision, fall asleep at the wheel, forget something
+basic, and make a mistake that breaks the feature that you coded three months ago. We&#39;ve all been there, and it sucks to realize after the fact.&lt;/p&gt;
+
+&lt;p&gt;The final reason I think code should be backed by tests is, if you want your code to be collaborated by other developers, you will
+need to have some way for them to validate their collaboration. This is a big leap in software development, and if more than one developer is
+working on something, than theres a good chance it&#39;s fairly important. Don&#39;t look like a jabroni, back your code.&lt;/p&gt;
+
+&lt;p&gt;Don&#39;t get me wrong, tests aren&#39;t everything, and obviously you will hit a diminishing point of return on the effectiveness of
+your ability to find/eliminate bugs at a certain point, but having some basic guidelines for components that need to work is important.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://brianw.io/blog/2013/12/25/hello-world</link>
+      <pubDate>Wed, 25 Dec 2013 21:38:21 +0000</pubDate>
+      <author></author>
+      <guid>http://brianw.io/blog/2013/12/25/hello-world</guid>
+      <description>&lt;p&gt;Ok, so all the cool kids are doing it — starting a blog that is. My name is Brian Wheeler.
+I&#39;m the coder behind ChannelPop.com, as well as a rails developer for The Activity Exchange Inc.
+I enjoy using code to find creative solutions to complex problems. I hope I can help others get the most out of their dev-time.&lt;/p&gt;
+
+&lt;p&gt;Eventually I&#39;m going to be putting up code snippets and screencasts and tutorials and stuff, but at the time of this writing, things are pretty dry.&lt;/p&gt;
+
+&lt;p&gt;Thanks for stopping by,&lt;/p&gt;
+
+&lt;p&gt;-Brian&lt;/p&gt;
+</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>

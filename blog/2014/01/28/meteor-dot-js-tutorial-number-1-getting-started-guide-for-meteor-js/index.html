@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meteor.JS Tutorial #1: Getting Started Guide for Meteor JS &mdash; Brian Wheeler</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/headshot.jpeg"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Brian Wheeler" />
+    <meta name="title" content="Meteor.JS Tutorial #1: Getting Started Guide for Meteor JS ">
+    <link rel="canonical" href="http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-1-getting-started-guide-for-meteor-js">
+    
+    
+    <meta property="og:title" content="Meteor.JS Tutorial #1: Getting Started Guide for Meteor JS "/>
+    <meta property="og:url" content="http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-1-getting-started-guide-for-meteor-js"/>
+    
+    
+    <meta property="og:description" content="Short and sweet meteor.js tutorials."/>
+    <meta name="description" content="Short and sweet meteor.js tutorials."/>
+    
+    <meta property="og:site_name" content="Brian Wheeler">
+</head>
+<body>
+
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/headshot.jpeg" alt="Inc">
+            </a>
+            <a href="/" class="home">Home</a>
+            
+            <a href="/about-brian-wheeler">About</a>
+        </nav>
+        <nav class="tagline">
+            <span>Thoughts and stuff</span>
+            
+        </nav>
+    </header>
+</section>
+
+
+<article>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                By <address><a rel="author" href="/about-brian-wheeler" title="" target="_blank">Brian Wheeler</a></address> &mdash;
+                <time pubdate datetime="2014-28-January" title="January 28, 2014">January 28, 2014</time>
+            </div>
+            <h1 class="title">Meteor.JS Tutorial #1: Getting Started Guide for Meteor JS</h1>
+            
+        </header>
+
+        <section>
+            <p>If you're like me, you are cautiously optimistic about new technology, such as Meteor.js. I'm very excited to see how Meteor develops, and what it will mean for the future of web development.
+I've been playing around with Meteor, so I wanted to do a quick tutorial.</p>
+
+<p>To get started, go <a href="http://meteor.com">get yourself a copy of Meteor.js</a>. Once you have done that, create a sample application by typing <code>meteor create my_app</code> at the console.
+(This tutorial assumes you have basic web development and console skills.)</p>
+
+<p>Now type <code>cd my_app/</code> in terminal.</p>
+
+<p><code>tree</code></p>
+
+<pre><code>├── my_app.css
+├── my_app.html
+└── my_app.js
+</code></pre>
+
+<p>Cool! You now have a single-page meteor app! You can put your styles in the css file (duh), now let's take a look at the MyApp.js file.</p>
+
+<pre><code>if (Meteor.isClient) {
+  Template.hello.greeting = function () {
+    return "Welcome to my_app.";
+  };
+
+  Template.hello.events({
+    'click input' : function () {
+      // template data, if any, is available in 'this'
+      if (typeof console !== 'undefined')
+        console.log("You pressed the button");
+    }
+  });
+}
+
+if (Meteor.isServer) {
+  Meteor.startup(function () {
+    // code to run on server at startup
+  });
+}
+</code></pre>
+
+<p>The first thing I notice right off the bat is we have these <code>Meteor.isClient</code> and <code>Meteor.isServer</code> methods. Meteor has some sort of secret sauce that will make sure that
+the code you put on the server side will <strong>not</strong> be exposed to the client, and vice versa (thankfully). There are certain things that you can and cannot do on the client side in
+meteor, for the sake of data-security, but more on tht later.</p>
+
+<p>The next thing I notice is the property on the <code>Template</code> object. If we look at our <code>my_app.html</code> file, we see</p>
+
+<pre><code>&lt;head&gt;
+  &lt;title&gt;my_app&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;/body&gt;
+
+&lt;template name="hello"&gt;
+  &lt;h1&gt;Hello World!&lt;/h1&gt;
+
+  &lt;input type="button" value="Click" /&gt;
+&lt;/template&gt;
+</code></pre>
+
+<p>In Meteor, we don't use HTML in the old-school way of compiling pages with server variables (MVC style), now there is this new idea of MVM, or Model-View-Model.
+In Meteor, you will find that the server code is bound almost directly to the view. If we want something to happen server-side on click, we can simply call the
+<code>events</code> method the corresponding template. Meteor will bind <code>Template.template_name</code> to the corresponding template, defined by the name attribute.</p>
+
+<p>I hope this tutorial was a helpful intro into Meteor JS! If you're looking for more meteor, don't miss my tutorial on <a href="http://brianw.io/blog/2014/01/28/meteor-dot-js-tutorial-number-2-listening-for-events-in-meteor/">how to listen for events in Meteor.js!</a></p>
+
+            
+<div class="social">
+    <div>
+        <a href="https://twitter.com/share" class="twitter-share-button"  data-text="Meteor.JS Tutorial #1: Getting Started Guide for Meteor JS" data-related="bwheeler96">Tweet</a>
+    </div>
+    
+    
+    <div>
+        <div class="fb-like" data-width="150" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div>
+    </div>
+    
+    
+    <div>
+        <div class="g-plusone" data-size="medium"></div>
+    </div>
+    
+    
+    
+</div>
+
+        </section>
+
+        <footer>
+            <address>
+               <img src="/images/profile_pic.jpg">
+                <p>Written by <strong><a rel="author" href="/about-brian-wheeler" title="Brian Wheeler" target="_blank">Brian Wheeler</a></strong><br>
+                <span class="muted">Programmer, Entrepreneur, Startup Enthusiast</span>
+                </p>
+            </address>
+
+        </footer>
+
+        
+        <section>
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'brianwio'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+        </section>
+        
+    </div>
+</article>
+
+
+<footer class="site-footer">
+    <div class="container">
+        &copy; 2015
+
+        <nav>
+            <!-- <a href="http://brianw.io/">Brian Wheeler</a> &middot; -->
+            <a href="/about-brian-wheeler">Brian Wheeler</a>
+            <a href="/">Blog</a> &middot;
+            
+            <a href="/about-brian-wheeler">About</a>
+        </nav>
+
+        <nav class="social">
+            
+            <a href="https://twitter.com/bwheeler96" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
+            
+            
+            <a href="/feed.xml" title="RSS Feed">
+                <i class="icon icon-rss black"></i>
+            </a>
+        </nav>
+        <p>Incorporated theme by <a href="https://sendtoinc.com">Inc</a></p>
+    </div>
+</footer>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/assets/main.js"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=253595308025739";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44391139-6', 'brianw.io');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+</body>
+</html>
